@@ -3,7 +3,7 @@
   "altTitle": "Isekai Quartet 2",
   "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx110178-UhigZiRQVwLf.jpg",
   "genre": ["Fantasy", "Comedy"],
-  "description": "Musim ketiga Isekai Quartet.",
+  "description": "Musim kedua Isekai Quartet.",
   "video": "vidio.html#isekai-quartet-2",
   "production": "PuYUKAI",
   "release": "15 Januari 2020",
@@ -56,6 +56,18 @@
     {
       "number": 12,
       "url": ""
+    }
+  ],
+  "related": [
+    {
+      "title": "Isekai Quartet 3",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194447-sgmaOpJ0VIUI.jpg",
+      "url": "vidioplayer.html#isekai-quartet-3"
+    },
+    {
+      "title": "Isekai Quartet",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104454-pH5YCR7HteqP.jpg",
+      "url": "vidioplayer.html#isekai-quartet"
     }
   ]
 }
