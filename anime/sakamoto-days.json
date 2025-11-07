@@ -1,7 +1,7 @@
 {
   "title": "Sakamoto Days",
   "altTitle": "SAKAMOTO DAYS",
-  "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1026/146459.webp?s=fed5bd5977422c536b138802afa81feb",
+  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177709-e5Qx6RlsBgD5.png",
   "genre": ["Action", "Comedy"],
   "description": "Taro Sakamoto dulunya adalah pembunuh bayaran legendaris yang ditakuti di seluruh dunia. Namun setelah jatuh cinta, ia pensiun, menikah, dan membuka toko kelontong. Meski begitu, masa lalunya tidak bisa dilupakan begitu saja, dan Sakamoto harus kembali beraksi dengan gaya uniknya — tanpa membunuh siapa pun.",
   "video": "vidio.html#sakamoto-days",
@@ -52,6 +52,13 @@
     {
       "number": 11,
       "url": "https://raphtalia.my.id/kdrive/Vwp0WfY0XtIwt/Kuramanime-SKMDAYS-11_END-720p-NF.mp4?lud=1743505968&pid=30554&sid=159092&cce=1"
+    }
+  ],
+  "related": [
+    {
+      "title": "Sakamoto Days 2",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184237-OJAksU2fsIPx.jpg",
+      "url": "vidioplayer.html#sakamoto-days-2"
     }
   ]
 }
