@@ -1,10 +1,10 @@
 {
   "title": "Nageki no Bourei wa Intai shitai part 2",
   "altTitle": "Let This Grieving Soul Retire Cour 2",
-  "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1651/152063.webp",
+  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175019-8lLRmHID5fMd.jpg",
   "genre": ["Action", "Adventure", "Fantasy"],
   "description": "Musim kedua Nageki no Bourei wa Intai shitai",
-  "video": "vidio.html#nageki-no-bourei-wa-intai-shitai-part-2",
+  "video": "vidio.html#",
   "production": "Zero-G",
   "release": "6 Oktober 2025",
   "rating": "7.3",
@@ -28,6 +28,13 @@
     {
       "number": 5,
       "url": "https://kitasan.my.id/kdrive/qWzgnxrxNrHTy/Kuramanime-NAGEREI_P2-05-720p-BGlobal.mp4?lud=1762012290&pid=39411&sid=205564&cce=1"
+    }
+  ],
+  "related": [
+    {
+      "title": "Nageki no Bourei wa Intai shitai",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185801-HaxWxYlkFnRg.png",
+      "url": "vidioplayer.html#nageki-no-bourei-wa-intai-shitai"
     }
   ]
 }
