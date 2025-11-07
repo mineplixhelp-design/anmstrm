@@ -1,7 +1,7 @@
 {
   "title": "One Punch Man 3",
   "altTitle": "One Punch Man Season 3",
-  "cover": "https://cdn.myanimelist.net/images/anime/1168/148347.jpg",
+  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153800-8SpzdHOaZCoU.jpg",
   "genre": ["Action", "Comedy"],
   "description": "Season 3 lanjutan dari kisah Saitama yang masih mencari lawan seimbang.",
   "video": "vidio.html#one-punch-man-3",
@@ -24,6 +24,18 @@
     {
       "number": 4,
       "url": "https://maki.my.id/kdrive/W8UJSPdrRORnK/Kuramanime-ONEPM_S3-04-720p-BGlobal.mp4?lud=1762098763&pid=39446&sid=205816&cce=1"
+    }
+  ],
+  "related": [
+    {
+      "title": "One Punch Man 2",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97668-nC8gQrXVxt7k.png",
+      "url": "vidioplayer.html#one-punch-man-2"
+    },
+    {
+      "title": "One Punch Man",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21087-B5DHjqZ3kW4b.jpg",
+      "url": "vidioplayer.html#one-punch-man"
     }
   ]
 }
