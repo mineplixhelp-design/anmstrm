@@ -1,8 +1,8 @@
 {
   "title": "Kakuriyo no Yadomeshi Ni",
   "altTitle": "Kakuriyo: Bed & Breakfast for Spirits Season 2",
-  "cover": "https://cdn.myanimelist.net/images/anime/1619/151364l.jpg",
-  "genre": ["Fantasy", "Romance", "Gourmet"],
+  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177271-anyazmpWyX3m.jpg",
+  "genre": ["Drama", "Fantasy", "Romance", "Gourmet"],
   "description": "Musim kedua dari kisah Kakuriyo no Yadomeshi yang berjudul “Ni”, menceritakan kembali perjalanan Aoi Tsubaki di dunia roh untuk menebus hutang keluarganya lewat membuka restoran bersama sang dewa penginapan Odanna. Musim ini diproduksi oleh GONZO bersama Makaria, dan dijadwalkan tayang mulai Oktober 2025. 5",
   "video": "vidio.html#kakuriyo-no-yadomeshi-ni",
   "production": "GONZO × Makaria",
@@ -28,6 +28,13 @@
     {
       "number": 5,
       "url": "https://yae.my.id/kdrive/mYFjGS318W0am7/Kuramanime-KAKURYO_S2-05-720p.mp4?lud=1761754212&pid=39319&sid=204994&cce=1"
+    }
+  ],
+  "related": [
+    {
+      "title": "Kakuriyo no Yadomeshi",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100500-D1InEy2GriJV.jpg",
+      "url": "vidioplayer.html#kakuriyo-no-yadomeshi"
     }
   ]
 }
