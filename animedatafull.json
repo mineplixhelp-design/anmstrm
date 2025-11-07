@@ -39,7 +39,9 @@
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139643-HzWce7XJ2w6G.jpg",
     "year": 2022,
     "genre": [
-      "Fantasy"
+      "Fantasy",
+      "Adventure",
+      "Drama"
     ],
     "episode": "eps1",
     "format": "Movie",
@@ -63,7 +65,8 @@
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170018-1PqdLX68YayA.jpg",
     "year": 2025,
     "genre": [
-      "Drama"
+      "Drama",
+      "Music"
     ],
     "episode": "5 Eps",
     "format": "TV",
@@ -109,7 +112,7 @@
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186524-JSsyFR3FqTO8.jpg",
     "year": 2025,
     "genre": [
-      "Supernatural",
+      "Fantasy",
       "Comedy"
     ],
     "episode": "4 Eps",
@@ -146,7 +149,8 @@
     "genre": [
       "Action",
       "Comedy",
-      "Supernatural"
+      "Supernatural",
+      "Sci-Fi"
     ],
     "episode": "12 Eps",
     "format": "TV",
@@ -159,7 +163,8 @@
     "genre": [
       "Action",
       "Comedy",
-      "Supernatural"
+      "Supernatural",
+      "Sci-Fi"
     ],
     "episode": "12 Eps",
     "format": "TV",
@@ -183,7 +188,7 @@
     "year": 2020,
     "genre": [
       "Drama",
-      "Adventure",
+      "Supernatural",
       "Action",
       "Fantasy"
     ],
@@ -296,7 +301,9 @@
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185116-DIFRjiMgz1IS.jpg",
     "year": 2025,
     "genre": [
-      "Sci-Fi"
+      "Sci-Fi",
+      "Mystery",
+      "Psychological"
     ],
     "episode": "4 Eps",
     "format": "TV",
@@ -418,7 +425,8 @@
     "genre": [
       "Drama",
       "Fantasy",
-      "Romance"
+      "Romance",
+      "Gourmet"
     ],
     "episode": "6 Eps",
     "format": "TV",
@@ -431,7 +439,8 @@
     "genre": [
       "Drama",
       "Fantasy",
-      "Romance"
+      "Romance",
+      "Gourmet"
     ],
     "episode": "26 Eps",
     "format": "TV",
@@ -502,7 +511,8 @@
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181444-Ut9DDUZdfHwg.jpg",
     "year": 2025,
     "genre": [
-      "Romance"
+      "Romance",
+      "Drama"
     ],
     "episode": "13 Eps",
     "format": "TV",
@@ -540,7 +550,8 @@
     "year": 2016,
     "genre": [
       "Romance",
-      "Fantasy"
+      "Drama",
+      "Supernatural"
     ],
     "episode": "eps1",
     "format": "Movie",
@@ -576,7 +587,8 @@
     "year": 2016,
     "genre": [
       "Drama",
-      "Romance"
+      "Romance",
+      "Slice of Life"
     ],
     "episode": "eps1",
     "format": "Movie",
@@ -625,7 +637,8 @@
     "year": 2025,
     "genre": [
       "Drama",
-      "Fantasy"
+      "Fantasy",
+      "Romance"
     ],
     "episode": "3 Eps",
     "format": "TV",
@@ -820,7 +833,9 @@
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171046-9leqLiNuOqNu.png",
     "year": 2025,
     "genre": [
-      "Romance"
+      "Romance",
+      "Drama",
+      "Supernatural"
     ],
     "episode": "13 Eps",
     "format": "TV",
@@ -869,7 +884,8 @@
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154768-DHHvNd4MjV1p.jpg",
     "year": 2025,
     "genre": [
-      "Romance"
+      "Romance",
+      "Drama"
     ],
     "episode": "12 Eps",
     "format": "TV",
@@ -880,7 +896,8 @@
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132405-qP7FQYGmNI3d.jpg",
     "year": 2022,
     "genre": [
-      "Romance"
+      "Romance",
+      "Drama"
     ],
     "episode": "12 Eps",
     "format": "TV",
@@ -892,7 +909,8 @@
     "year": 2025,
     "genre": [
       "Adventure",
-      "Fantasy"
+      "Fantasy",
+      "Isekai"
     ],
     "episode": "5 Eps",
     "format": "TV",
@@ -939,7 +957,8 @@
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx148080-2wVRYUghiaAq.png",
     "year": 2024,
     "genre": [
-      "Drama",
+      "Adventure",
+      "Supernatural",
       "Romance"
     ],
     "episode": "eps1",
@@ -951,7 +970,8 @@
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142770-dDaDIRnsv5jN.jpg",
     "year": 2022,
     "genre": [
-      "Adventure"
+      "Adventure",
+      "Supernatural"
     ],
     "episode": "eps1",
     "format": "Movie",
@@ -962,7 +982,8 @@
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186621-jFeAgDQkQMUm.jpg",
     "year": 2025,
     "genre": [
-      "Romance"
+      "Romance",
+      "Slice Of Slice"
     ],
     "episode": "6 Eps",
     "format": "TV",
@@ -974,7 +995,8 @@
     "year": 2019,
     "genre": [
       "Fantasy",
-      "Romance"
+      "Romance",
+      "Drama"
     ],
     "episode": "eps1",
     "format": "Movie",
@@ -998,7 +1020,8 @@
     "year": 2025,
     "genre": [
       "Comedy",
-      "Romance"
+      "Romance",
+      "Fantasy"
     ],
     "episode": "4 Eps",
     "format": "TV",
@@ -1010,7 +1033,8 @@
     "year": 2024,
     "genre": [
       "Comedy",
-      "Romance"
+      "Fantasy",
+      "Action"
     ],
     "episode": "24 Eps",
     "format": "TV",
@@ -1035,7 +1059,8 @@
     "genre": [
       "Comedy",
       "Adventure",
-      "Fantasy"
+      "Fantasy",
+      "Gourmet"
     ],
     "episode": "4 Eps",
     "format": "TV",
@@ -1048,7 +1073,8 @@
     "genre": [
       "Comedy",
       "Adventure",
-      "Fantasy"
+      "Fantasy",
+      "Gourmet"
     ],
     "episode": "12 Eps",
     "format": "TV",
@@ -1071,7 +1097,8 @@
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195153-yiRxZP5pPJLi.png",
     "year": 2025,
     "genre": [
-      "Romance"
+      "Romance",
+      "Sci-Fi"
     ],
     "episode": "5 Eps",
     "format": "TV",
