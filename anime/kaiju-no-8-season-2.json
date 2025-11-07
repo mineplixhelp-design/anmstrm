@@ -1,8 +1,8 @@
 {
   "title": "Kaiju No. 8 Season 2",
   "altTitle": "怪獣８号 シーズン2",
-  "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1177/150344.webp",
-  "genre": ["Action", "Fantasy", "Sci-Fi"],
+  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178754-Dgrub8xgC03M.jpg",
+  "genre": ["Action", "Fantasy"],
   "description": "Musim kedua melanjutkan kisah Kafka Hibino yang kini berhadapan dengan kekuatan baru setelah menjadi “Kaiju No. 8”, serta ancaman kaiju yang lebih besar dan arc ‘Kaiju Weapon’ dan ‘Compatible User’. 2",
   "video": "vidio.html#kaiju-no-8-season-2",
   "production": "Production I.G",
@@ -52,6 +52,13 @@
     {
       "number": 11,
       "url": "https://chizuru.my.id/kdrive/MkSuvXc3XfY/Kuramanime-KJU8_S2-11_END-720p-BGlobal.mp4?lud=1759123578&pid=37295&sid=194314&cce=1"
+    }
+  ],
+  "related": [
+    {
+      "title": "Kaizu No 8",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153288-25FBfFJzEQ5O.jpg",
+      "url": "vidioplayer.html#kaizu-no-8"
     }
   ]
 }
