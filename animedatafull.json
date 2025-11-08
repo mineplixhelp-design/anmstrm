@@ -85,6 +85,19 @@
     "update": "Movie"
   },
   {
+    "title": "Bleach",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx269-d2GmRkJbMopq.png",
+    "year": 2004,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Supernatural"
+    ],
+    "episode": "366 Eps",
+    "format": "TV",
+    "update": ""
+  },
+  {
     "title": "Boku no Hero Academia Final Season",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182896-mvxTVHGdDB4q.jpg",
     "year": 2025,
