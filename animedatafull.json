@@ -1284,7 +1284,43 @@
     "genre": [
       "Adventure",
       "Comedy",
-      "Fantasy"
+      "Mystery"
+    ],
+    "format": "TV",
+    "update": ""
+  },
+  {
+    "title": "BLEACH Sennen Kessen-hen",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116674-p3zK4PUX2Aag.jpg",
+    "year": 2022,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Supernatural"
+    ],
+    "format": "TV",
+    "update": ""
+  },
+  {
+    "title": "BLEACH Sennen Kessen-hen-Ketsubetsu-tan",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159322-Sp1GflRhE6Po.jpg",
+    "year": 2023,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Supernatural"
+    ],
+    "format": "TV",
+    "update": ""
+  },
+  {
+    "title": "BLEACH Sennen Kessen-hen-Soukoku-tan",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169755-Rqb7MjnzdTc6.jpg",
+    "year": 2024,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Supernatural"
     ],
     "format": "TV",
     "update": ""
