@@ -1264,5 +1264,29 @@
     ],
     "format": "ONA",
     "update": ""
+  },
+  {
+    "title": "One Piece",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
+    "year": 1999,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "format": "TV",
+    "update": ""
+  },
+  {
+    "title": "Detective conan",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx235-MyYT7K3chBdO.jpg",
+    "year": 1996,
+    "genre": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "format": "TV",
+    "update": ""
   }
 ]
