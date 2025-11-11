@@ -789,7 +789,7 @@
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187331-ylRHyvJIVPeO.jpg",
     "year": 2025,
     "genre": [
-      "Sport",
+      "Sports",
       "Ecchi"
     ],
     "format": "TV",
@@ -1055,7 +1055,7 @@
     "year": 2025,
     "genre": [
       "Drama",
-      "Sports"
+      "Sportss"
     ],
     "format": "TV",
     "update": "minggu, populer"
@@ -1066,7 +1066,7 @@
     "year": 2025,
     "genre": [
       "Drama",
-      "Sports"
+      "Sportss"
     ],
     "format": "TV",
     "update": ""
@@ -1086,7 +1086,7 @@
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180436-zR0dJuKGZNOK.jpg",
     "year": 2025,
     "genre": [
-      "Sports"
+      "Sportss"
     ],
     "format": "TV",
     "update": "kamis"
@@ -1187,7 +1187,7 @@
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176245-OoBRZRVUwO7t.png",
     "year": 2024,
     "genre": [
-      "Sports"
+      "Sportss"
     ],
     "format": "Movie",
     "update": "Movie"
@@ -1231,6 +1231,36 @@
     "genre": [
       "Drama",
       "Sci-Fi"
+    ],
+    "format": "ONA",
+    "update": ""
+  },
+  {
+    "title": "Overflow",
+    "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1781/104461.webp?s=9588f231a2f1d6cfb03a201045cfa582",
+    "year": 2020,
+    "genre": [
+      "Hentai"
+    ],
+    "format": "ONA",
+    "update": ""
+  },
+  {
+    "title": "Ookami-san wa Taberaretai",
+    "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1020/108606.webp?s=31454fc2a7621709a71d3babe28d213a",
+    "year": 2020,
+    "genre": [
+      "Hentai"
+    ],
+    "format": "ONA",
+    "update": ""
+  },
+  {
+    "title": "Modaete yo Adam-kun",
+    "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1868/140198.webp?s=ba323059009ce3b6afd5733dd8264a98",
+    "year": 2023,
+    "genre": [
+      "Hentai"
     ],
     "format": "ONA",
     "update": ""
