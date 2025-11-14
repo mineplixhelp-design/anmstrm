@@ -267,7 +267,7 @@
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185965-LlzTLSTBUbEA.jpg",
     "year": 2025,
     "genre": [
-      "Slice Of Life",
+      "Slice of Life",
       "Gourmet"
     ],
     "format": "TV",
@@ -938,7 +938,7 @@
     "year": 2025,
     "genre": [
       "Romance",
-      "Slice Of Slice"
+      "Slice of Life"
     ],
     "format": "TV",
     "update": "kamis"
@@ -1324,5 +1324,31 @@
     ],
     "format": "TV",
     "update": ""
+  },
+  {
+    "title": "Ranma 1/2 2024",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178533-b88OLxm50jcH.jpg",
+    "year": 2024,
+    "genre": [
+      "Action",
+      "Comedy",
+      "Romance",
+      "Ecchi"
+    ],
+    "format": "TV",
+    "update": ""
+  },
+  {
+    "title": "Ranma 1/2 2024 2nd Season",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185731-PJ6WKcFDUI4B.jpg",
+    "year": 2025,
+    "genre": [
+      "Action",
+      "Comedy",
+      "Romance",
+      "Ecchi"
+    ],
+    "format": "TV",
+    "update": "minggu"
   }
 ]
