@@ -1,8 +1,4 @@
 {
-  "title": "One Piece",
-  "altTitle": "OP",
-  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
-  "genre": ["Action", "Adventure", "Fantasy"],
   "description": "Bahasa Indonesia: Nyaris bertahan hidup di dalam tong setelah melewati pusaran air yang mengerikan di laut, Monkey D. Luffy yang riang berakhir di atas kapal yang diserang oleh bajak laut yang menakutkan. Meskipun tampak seperti remaja yang naif, dia tidak bisa diremehkan. Tak tertandingi dalam pertempuran, Luffy sendiri adalah bajak laut yang dengan tegas mengejar harta karun One Piece yang didambakan dan gelar Raja Bajak Laut yang menyertainya.",
   "video": "vidio.html#one-piece",
   "production": "Animasi Toei",
@@ -4592,6 +4588,18 @@
     {
       "number": 1146,
       "url": "https://storage-2.anistream.id/xyz/03_episode/OnePiece/1100_1200/HD/1146.mp4"
+    },
+    {
+      "number": 1147,
+      "url": "https://storage-2.anistream.id/xyz/03_episode/OnePiece/1100_1200/HD/1147.mp4"
+    },
+    {
+      "number": 1148,
+      "url": "https://storage-2.anistream.id/xyz/03_episode/OnePiece/1100_1200/HD/1148.mp4"
+    },
+    {
+      "number": 1149,
+      "url": "https://storage-2.anistream.id/xyz/03_episode/OnePiece/1100_1200/HD/1149.mp4"
     }
   ]
 }
