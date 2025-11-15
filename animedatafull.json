@@ -1350,5 +1350,53 @@
     ],
     "format": "TV",
     "update": "minggu"
+  },
+  {
+    "title": "Shaman King 2021",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx119675-ziQ6Lb80zEx4.png",
+    "year": 2021,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Supernatural"
+    ],
+    "format": "TV",
+    "update": ""
+  },
+  {
+    "title": "Shaman King",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154-hSYv4EtcBE1p.png",
+    "year": 2001,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Supernatural"
+    ],
+    "format": "TV",
+    "update": ""
+  },
+  {
+    "title": "Shaman King Flowers",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b147850-USIKDjVK7xTn.jpg",
+    "year": 2024,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Supernatural"
+    ],
+    "format": "TV",
+    "update": ""
+  },
+  {
+    "title": "Engage Kiss",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146625-DmXjpJ2y8fDn.jpg",
+    "year": 2022,
+    "genre": [
+      "Action",
+      "Comedy",
+      "Romance"
+    ],
+    "format": "TV",
+    "update": ""
   }
 ]
