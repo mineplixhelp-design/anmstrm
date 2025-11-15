@@ -1398,5 +1398,39 @@
     ],
     "format": "TV",
     "update": ""
+  },
+  {
+    "title": "Yosuga no Sora",
+    "cover": "https://ik.imagekit.io/tzttdw0wd//tr:w-400,q-90/https%3A%2F%2Fcdn.myanimelist.net%2Fimages%2Fanime%2F5%2F76216l.jpg",
+    "year": 2010,
+    "genre": [
+      "Drama",
+      "Ecchi",
+      "Romance"
+    ],
+    "format": "TV",
+    "update": ""
+  },
+  {
+    "title": "Mirai Nikki",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10620-dUZeNej0W4QN.png",
+    "year": 2010,
+    "genre": [
+      "Action",
+      "Supernatural"
+    ],
+    "format": "TV",
+    "update": ""
+  },
+  {
+    "title": "Chainsaw Man",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127230-DdP4vAdssLoz.png",
+    "year": 2022,
+    "genre": [
+      "Action",
+      "Fantasy"
+    ],
+    "format": "TV",
+    "update": ""
   }
 ]
