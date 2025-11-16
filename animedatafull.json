@@ -1,75 +1,5 @@
 [
   {
-    "title": "Tokyo Ghoul",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b20605-k665mVkSug8D.jpg",
-    "year": "2014",
-    "genre": [
-      "Action",
-      "Drama",
-      "Horror",
-      "Mystery",
-      "Psychological",
-      "Supernatural"
-    ],
-    "format": "TV",
-    "update": ""
-  },
-  {
-    "title": "Another",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11111-gvvE5bBYsyFo.png",
-    "year": "2012",
-    "genre": [
-      "Mystery",
-      "Horror",
-      "Supernatural"
-    ],
-    "format": "TV",
-    "update": ""
-  },
-  {
-    "title": "Berserk 2017",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97643-5s3MVIfTYIuQ.jpg",
-    "year": "2017",
-    "genre": [
-      "Action",
-      "Adventure",
-      "Drama",
-      "Fantasy",
-      "Horror",
-      "Romance",
-      "Supernatural"
-    ],
-    "format": "TV",
-    "update": ""
-  },
-  {
-    "title": "Berserk 2016",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21560-6iifjdssfebJ.jpg",
-    "year": "2016",
-    "genre": [
-      "Action",
-      "Adventure",
-      "Drama",
-      "Fantasy",
-      "Horror",
-      "Supernatural"
-    ],
-    "format": "TV",
-    "update": ""
-  },
-  {
-    "title": "Karakai Jouzu no Takagi-san 3",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138424-97Nz1P7M3O2d.png",
-    "year": "2022",
-    "genre": [
-      "Comedy",
-      "Romance",
-      "Slice of Life"
-    ],
-    "format": "TV",
-    "update": ""
-  },
-  {
     "title": "3-nen Z-gumi Ginpachi-sensei",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162890-vDRlo1KuRM6W.jpg",
     "year": 2025,
@@ -78,18 +8,6 @@
     ],
     "format": "TV",
     "update": "selasa, populer"
-  },
-  {
-    "title": "One Piece",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
-    "year": 1999,
-    "genre": [
-      "Action",
-      "Adventure",
-      "Fantasy"
-    ],
-    "format": "TV",
-    "update": "minggu, populer"
   },
   {
     "title": "Akujiki Reijou to Kyouketsu Koushaku",
@@ -126,6 +44,18 @@
     "update": "Movie"
   },
   {
+    "title": "Another",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11111-gvvE5bBYsyFo.png",
+    "year": "2012",
+    "genre": [
+      "Mystery",
+      "Horror",
+      "Supernatural"
+    ],
+    "format": "TV",
+    "update": ""
+  },
+  {
     "title": "Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186794-Ns8xWNdMdOxq.jpg",
     "year": 2025,
@@ -149,15 +79,45 @@
     "update": "minggu"
   },
   {
-    "title": "Boku ga Aishita Subete no Kimi e",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139310-OM1RKpk5YH7g.jpg",
-    "year": "2022",
+    "title": "BanG Dream! Movie Poppin Dream!",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx117765-R9vazugUMUE0.jpg",
+    "year": 2022,
     "genre": [
-      "Romance",
-      "Sci-Fi"
+      "Music"
     ],
     "format": "Movie",
     "update": "Movie"
+  },
+  {
+    "title": "Berserk 2016",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21560-6iifjdssfebJ.jpg",
+    "year": "2016",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Horror",
+      "Supernatural"
+    ],
+    "format": "TV",
+    "update": ""
+  },
+  {
+    "title": "Berserk 2017",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97643-5s3MVIfTYIuQ.jpg",
+    "year": "2017",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Horror",
+      "Romance",
+      "Supernatural"
+    ],
+    "format": "TV",
+    "update": ""
   },
   {
     "title": "Bleach",
@@ -170,6 +130,53 @@
     ],
     "format": "TV",
     "update": ""
+  },
+  {
+    "title": "BLEACH Sennen Kessen-hen",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116674-p3zK4PUX2Aag.jpg",
+    "year": 2022,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Supernatural"
+    ],
+    "format": "TV",
+    "update": ""
+  },
+  {
+    "title": "BLEACH Sennen Kessen-hen-Ketsubetsu-tan",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159322-Sp1GflRhE6Po.jpg",
+    "year": 2023,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Supernatural"
+    ],
+    "format": "TV",
+    "update": ""
+  },
+  {
+    "title": "BLEACH Sennen Kessen-hen-Soukoku-tan",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169755-Rqb7MjnzdTc6.jpg",
+    "year": 2024,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Supernatural"
+    ],
+    "format": "TV",
+    "update": ""
+  },
+  {
+    "title": "Boku ga Aishita Subete no Kimi e",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139310-OM1RKpk5YH7g.jpg",
+    "year": "2022",
+    "genre": [
+      "Romance",
+      "Sci-Fi"
+    ],
+    "format": "Movie",
+    "update": "Movie"
   },
   {
     "title": "Boku no Hero Academia Final Season",
@@ -191,6 +198,17 @@
     ],
     "format": "TV",
     "update": "jumat"
+  },
+  {
+    "title": "Chainsaw Man",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127230-DdP4vAdssLoz.png",
+    "year": 2022,
+    "genre": [
+      "Action",
+      "Fantasy"
+    ],
+    "format": "TV",
+    "update": ""
   },
   {
     "title": "Chanto Suenai Kyuuketsuki-chan",
@@ -275,6 +293,18 @@
     "update": "Movie"
   },
   {
+    "title": "Detective conan",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx235-MyYT7K3chBdO.jpg",
+    "year": 1996,
+    "genre": [
+      "Adventure",
+      "Comedy",
+      "Mystery"
+    ],
+    "format": "TV",
+    "update": ""
+  },
+  {
     "title": "Digimon Beatbreak",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188388-aXx9fsnvezBf.jpg",
     "year": 2025,
@@ -307,6 +337,33 @@
     ],
     "format": "Movie",
     "update": "Movie"
+  },
+  {
+    "title": "Elfen Lied",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx226-MibyRKhIrnTe.png",
+    "year": 2004,
+    "genre": [
+      "Action",
+      "Horor",
+      "Psychological",
+      "Supernatural",
+      "Drama",
+      "Romance"
+    ],
+    "format": "TV",
+    "update": ""
+  },
+  {
+    "title": "Engage Kiss",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146625-DmXjpJ2y8fDn.jpg",
+    "year": 2022,
+    "genre": [
+      "Action",
+      "Comedy",
+      "Romance"
+    ],
+    "format": "TV",
+    "update": ""
   },
   {
     "title": "Fumetsu no Anata e",
@@ -367,6 +424,28 @@
     "update": "senin, populer"
   },
   {
+    "title": "Ganbatte Ikimasshoi",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176245-OoBRZRVUwO7t.png",
+    "year": 2024,
+    "genre": [
+      "Sports"
+    ],
+    "format": "Movie",
+    "update": "Movie"
+  },
+  {
+    "title": "GATE",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20994-pSDk4I58jAK5.jpg",
+    "year": 2015,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "format": "TV",
+    "update": ""
+  },
+  {
     "title": "Gnosia",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185116-DIFRjiMgz1IS.jpg",
     "year": 2025,
@@ -410,6 +489,18 @@
     "update": "selasa"
   },
   {
+    "title": "High Score Girl",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20574-cUPxastH5vAm.jpg",
+    "year": 2018,
+    "genre": [
+      "Game",
+      "Comedy",
+      "Romance"
+    ],
+    "format": "TV",
+    "update": ""
+  },
+  {
     "title": "howl no ugoku shiro",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx431-o8Lj3XkjHm2k.jpg",
     "year": 2004,
@@ -423,23 +514,12 @@
     "update": "Movie"
   },
   {
-    "title": "Isekai Quartet 3",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194447-sgmaOpJ0VIUI.jpg",
-    "year": 2025,
+    "title": "Inu to Hasami wa Tsukaiyou",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx17831-V7uLx7u0gDJv.jpg",
+    "year": 2013,
     "genre": [
-      "Fantasy",
-      "Comedy"
-    ],
-    "format": "TV",
-    "update": "selasa"
-  },
-  {
-    "title": "Isekai Quartet 2",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx110178-UhigZiRQVwLf.jpg",
-    "year": 2020,
-    "genre": [
-      "Fantasy",
-      "Comedy"
+      "Comedy",
+      "Supernatural"
     ],
     "format": "TV",
     "update": ""
@@ -456,23 +536,35 @@
     "update": ""
   },
   {
-    "title": "Kusuriya no Hitorigoto",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx161645-QLbzHXiYRgV2.jpg",
-    "year": 2023,
+    "title": "Isekai Quartet 2",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx110178-UhigZiRQVwLf.jpg",
+    "year": 2020,
     "genre": [
-      "Drama",
-      "Mystery"
+      "Fantasy",
+      "Comedy"
     ],
     "format": "TV",
     "update": ""
   },
   {
-    "title": "Kusuriya no Hitorigoto 2nd Season",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176301-TIGmldLffQGX.jpg",
+    "title": "Isekai Quartet 3",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194447-sgmaOpJ0VIUI.jpg",
     "year": 2025,
     "genre": [
+      "Fantasy",
+      "Comedy"
+    ],
+    "format": "TV",
+    "update": "selasa"
+  },
+  {
+    "title": "Just Because",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98820-EVHeNEUOWkh3.jpg",
+    "year": 2017,
+    "genre": [
+      "Slice of Life",
       "Drama",
-      "Mystery"
+      "Romance"
     ],
     "format": "TV",
     "update": ""
@@ -500,19 +592,6 @@
     "update": ""
   },
   {
-    "title": "Kakuriyo no Yadomeshi Ni",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177271-anyazmpWyX3m.jpg",
-    "year": 2025,
-    "genre": [
-      "Drama",
-      "Fantasy",
-      "Romance",
-      "Gourmet"
-    ],
-    "format": "TV",
-    "update": "kamis"
-  },
-  {
     "title": "Kakuriyo no Yadomeshi",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100500-D1InEy2GriJV.jpg",
     "year": 2018,
@@ -526,20 +605,22 @@
     "update": ""
   },
   {
-    "title": "Kanojo Okarishimasu Season 4",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179344-GQzJfehpQI72.png",
+    "title": "Kakuriyo no Yadomeshi Ni",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177271-anyazmpWyX3m.jpg",
     "year": 2025,
     "genre": [
-      "Comedy",
-      "Romance"
+      "Drama",
+      "Fantasy",
+      "Romance",
+      "Gourmet"
     ],
     "format": "TV",
-    "update": ""
+    "update": "kamis"
   },
   {
-    "title": "Kanojo Okarishimasu Season 3",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154745-xBr65cJsL3uW.jpg",
-    "year": 2023,
+    "title": "Kanojo Okarishimasu",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113813-SnljeXpU3Pw7.jpg",
+    "year": 2020,
     "genre": [
       "Comedy",
       "Romance"
@@ -559,9 +640,20 @@
     "update": ""
   },
   {
-    "title": "Kanojo Okarishimasu",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113813-SnljeXpU3Pw7.jpg",
-    "year": 2020,
+    "title": "Kanojo Okarishimasu Season 3",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154745-xBr65cJsL3uW.jpg",
+    "year": 2023,
+    "genre": [
+      "Comedy",
+      "Romance"
+    ],
+    "format": "TV",
+    "update": ""
+  },
+  {
+    "title": "Kanojo Okarishimasu Season 4",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179344-GQzJfehpQI72.png",
+    "year": 2025,
     "genre": [
       "Comedy",
       "Romance"
@@ -587,6 +679,42 @@
     "genre": [
       "Romance",
       "Drama"
+    ],
+    "format": "TV",
+    "update": ""
+  },
+  {
+    "title": "Karakai Jouzu no Takagi-san",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99468-XayCplkIL3Gf.png",
+    "year": 2018,
+    "genre": [
+      "Slice of Life",
+      "Comedy",
+      "Romance"
+    ],
+    "format": "TV",
+    "update": ""
+  },
+  {
+    "title": "Karakai Jouzu no Takagi-san 2",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx107068-KJq0eFP0GTjL.jpg",
+    "year": 2019,
+    "genre": [
+      "Slice of Life",
+      "Comedy",
+      "Romance"
+    ],
+    "format": "TV",
+    "update": ""
+  },
+  {
+    "title": "Karakai Jouzu no Takagi-san 3",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138424-97Nz1P7M3O2d.png",
+    "year": "2022",
+    "genre": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
     ],
     "format": "TV",
     "update": ""
@@ -662,6 +790,28 @@
     "update": "Movie"
   },
   {
+    "title": "Kusuriya no Hitorigoto",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx161645-QLbzHXiYRgV2.jpg",
+    "year": 2023,
+    "genre": [
+      "Drama",
+      "Mystery"
+    ],
+    "format": "TV",
+    "update": ""
+  },
+  {
+    "title": "Kusuriya no Hitorigoto 2nd Season",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176301-TIGmldLffQGX.jpg",
+    "year": 2025,
+    "genre": [
+      "Drama",
+      "Mystery"
+    ],
+    "format": "TV",
+    "update": ""
+  },
+  {
     "title": "Lets Play Quest-darake no My Life",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx193968-tXbbqBOTuClj.jpg",
     "year": 2025,
@@ -696,6 +846,27 @@
     "update": "minggu"
   },
   {
+    "title": "Mirai Nikki",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10620-dUZeNej0W4QN.png",
+    "year": 2010,
+    "genre": [
+      "Action",
+      "Supernatural"
+    ],
+    "format": "TV",
+    "update": ""
+  },
+  {
+    "title": "Modaete yo Adam-kun",
+    "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1868/140198.webp?s=ba323059009ce3b6afd5733dd8264a98",
+    "year": 2023,
+    "genre": [
+      "Hentai"
+    ],
+    "format": "ONA",
+    "update": ""
+  },
+  {
     "title": "Mofa Gongzhu de Xiao Fannao",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx165530-Ku7VZt2NCIgf.jpg",
     "year": 2025,
@@ -706,6 +877,18 @@
     ],
     "format": "TV",
     "update": "selasa"
+  },
+  {
+    "title": "Mononoke Movie 1 Karakasa",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151117-AOcwR3mXCDx7.jpg",
+    "year": 2024,
+    "genre": [
+      "Horor",
+      "Mystery",
+      "Supernatural"
+    ],
+    "format": "Movie",
+    "update": "Movie"
   },
   {
     "title": "Monster Strike Deadverse Reloaded",
@@ -756,6 +939,16 @@
     "update": "selasa"
   },
   {
+    "title": "Nazo no Kanojo X",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12467-FtvouFLt2Vkr.jpg",
+    "year": 2012,
+    "genre": [
+      "Romance"
+    ],
+    "format": "TV",
+    "update": ""
+  },
+  {
     "title": "Ninja to Gokudou",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186914-8fVK9eu1ZOKa.jpg",
     "year": 2025,
@@ -766,26 +959,30 @@
     "update": "rabu"
   },
   {
-    "title": "One Punch Man 3",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153800-8SpzdHOaZCoU.jpg",
-    "year": 2025,
+    "title": "One Piece",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
+    "year": 1999,
     "genre": [
       "Action",
-      "Comedy"
+      "Adventure",
+      "Fantasy"
     ],
     "format": "TV",
-    "update": "senin"
+    "update": "minggu, populer"
   },
   {
-    "title": "One Punch Man 2",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97668-nC8gQrXVxt7k.png",
-    "year": 2019,
+    "title": "One Piece Film Red",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141902-fTyoTk8F8qOl.jpg",
+    "year": 2022,
     "genre": [
       "Action",
-      "Comedy"
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Fantasy"
     ],
-    "format": "TV",
-    "update": ""
+    "format": "Movie",
+    "update": "Movie"
   },
   {
     "title": "One Punch Man",
@@ -799,6 +996,71 @@
     "update": ""
   },
   {
+    "title": "One Punch Man 2",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97668-nC8gQrXVxt7k.png",
+    "year": 2019,
+    "genre": [
+      "Action",
+      "Comedy"
+    ],
+    "format": "TV",
+    "update": ""
+  },
+  {
+    "title": "One Punch Man 3",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153800-8SpzdHOaZCoU.jpg",
+    "year": 2025,
+    "genre": [
+      "Action",
+      "Comedy"
+    ],
+    "format": "TV",
+    "update": "senin"
+  },
+  {
+    "title": "Ookami-san wa Taberaretai",
+    "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1020/108606.webp?s=31454fc2a7621709a71d3babe28d213a",
+    "year": 2020,
+    "genre": [
+      "Hentai"
+    ],
+    "format": "ONA",
+    "update": ""
+  },
+  {
+    "title": "Oomuro-ke Dear Friends",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174383-WIAKPEGRV4b8.jpg",
+    "year": 2024,
+    "genre": [
+      "Comedy",
+      "Girls Love"
+    ],
+    "format": "Movie",
+    "update": "Movie"
+  },
+  {
+    "title": "Orange",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21647-zMUXNhcVyRyv.png",
+    "year": 2016,
+    "genre": [
+      "Sci-Fi",
+      "Drama",
+      "Romance"
+    ],
+    "format": "TV",
+    "update": ""
+  },
+  {
+    "title": "Overflow",
+    "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1781/104461.webp?s=9588f231a2f1d6cfb03a201045cfa582",
+    "year": 2020,
+    "genre": [
+      "Hentai"
+    ],
+    "format": "ONA",
+    "update": ""
+  },
+  {
     "title": "Potion Wagami wo Tasukeru",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198561-ugYb3oLGGdbD.png",
     "year": 2025,
@@ -807,6 +1069,42 @@
     ],
     "format": "TV",
     "update": "jumat"
+  },
+  {
+    "title": "Project Sekai Movie Kowareta Sekai to Utaenai Miku",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179878-jG5GTXhe2vou.jpg",
+    "year": 2025,
+    "genre": [
+      "Music"
+    ],
+    "format": "Movie",
+    "update": "Movie"
+  },
+  {
+    "title": "Ranma 1/2 2024",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178533-b88OLxm50jcH.jpg",
+    "year": 2024,
+    "genre": [
+      "Action",
+      "Comedy",
+      "Romance",
+      "Ecchi"
+    ],
+    "format": "TV",
+    "update": ""
+  },
+  {
+    "title": "Ranma 1/2 2024 2nd Season",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185731-PJ6WKcFDUI4B.jpg",
+    "year": 2025,
+    "genre": [
+      "Action",
+      "Comedy",
+      "Romance",
+      "Ecchi"
+    ],
+    "format": "TV",
+    "update": "minggu"
   },
   {
     "title": "Saigo ni Hitotsu dake Onegai shitemo Yoroshii deshou ka",
@@ -844,17 +1142,6 @@
     "update": ""
   },
   {
-    "title": "Summer Ghost",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130050-rXTPVJ9UGN8Y.jpg",
-    "year": 2021,
-    "genre": [
-      "Drama",
-      "Supernatural"
-    ],
-    "format": "Movie",
-    "update": "Movie"
-  },
-  {
     "title": "Sanda",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179302-gWWAh5BfQyl4.jpg",
     "year": 2025,
@@ -864,6 +1151,19 @@
     ],
     "format": "TV",
     "update": "sabtu"
+  },
+  {
+    "title": "Sankarea",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11499-SeYog5nP4Uks.png",
+    "year": 2012,
+    "genre": [
+      "Comedy",
+      "Ecchi",
+      "Horor",
+      "Romance"
+    ],
+    "format": "TV",
+    "update": ""
   },
   {
     "title": "Sawaranaide Kotesashi-kun",
@@ -889,6 +1189,64 @@
     "update": ""
   },
   {
+    "title": "Senpai wa Otokonoko Movie Ame Nochi Hare",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182158-ztLTD2FKPnrd.jpg",
+    "year": 2025,
+    "genre": [
+      "Drama",
+      "Romance"
+    ],
+    "format": "Movie",
+    "update": "Movie"
+  },
+  {
+    "title": "Shaman King",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154-hSYv4EtcBE1p.png",
+    "year": 2001,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Supernatural"
+    ],
+    "format": "TV",
+    "update": ""
+  },
+  {
+    "title": "Shaman King 2021",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx119675-ziQ6Lb80zEx4.png",
+    "year": 2021,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Supernatural"
+    ],
+    "format": "TV",
+    "update": ""
+  },
+  {
+    "title": "Shaman King Flowers",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b147850-USIKDjVK7xTn.jpg",
+    "year": 2024,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Supernatural"
+    ],
+    "format": "TV",
+    "update": ""
+  },
+  {
+    "title": "Shingeki no Kyojin The Final Season Kanketsu-hen",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162314-qIWdAAFtvY8J.jpg",
+    "year": 2023,
+    "genre": [
+      "Action",
+      "Drama"
+    ],
+    "format": "Movie",
+    "update": "Movie"
+  },
+  {
     "title": "Shuumatsu Touring",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186920-nrYITcE4TEuk.jpg",
     "year": 2025,
@@ -898,18 +1256,6 @@
     ],
     "format": "TV",
     "update": "minggu"
-  },
-  {
-    "title": "Solo Leveling Season 2 Arise from the Shadow",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176496-9BDMjAZGEbq4.png",
-    "year": 2025,
-    "genre": [
-      "Action",
-      "Adventure",
-      "Fantasy"
-    ],
-    "format": "TV",
-    "update": ""
   },
   {
     "title": "Solo Leveling",
@@ -924,12 +1270,13 @@
     "update": ""
   },
   {
-    "title": "Sono Bisque Doll wa Koi wo Suru Season 2",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154768-DHHvNd4MjV1p.jpg",
+    "title": "Solo Leveling Season 2 Arise from the Shadow",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176496-9BDMjAZGEbq4.png",
     "year": 2025,
     "genre": [
-      "Romance",
-      "Drama"
+      "Action",
+      "Adventure",
+      "Fantasy"
     ],
     "format": "TV",
     "update": ""
@@ -938,6 +1285,17 @@
     "title": "Sono Bisque Doll wa Koi wo Suru",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132405-qP7FQYGmNI3d.jpg",
     "year": 2022,
+    "genre": [
+      "Romance",
+      "Drama"
+    ],
+    "format": "TV",
+    "update": ""
+  },
+  {
+    "title": "Sono Bisque Doll wa Koi wo Suru Season 2",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154768-DHHvNd4MjV1p.jpg",
+    "year": 2025,
     "genre": [
       "Romance",
       "Drama"
@@ -958,15 +1316,15 @@
     "update": "selasa"
   },
   {
-    "title": "SpyxFamily Season 3",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177937-Tzgg6rAdhCoH.jpg",
-    "year": 2025,
+    "title": "SpyxFamily",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140960-Kb6R5nYQfjmP.jpg",
+    "year": 2022,
     "genre": [
       "Action",
       "Comedy"
     ],
     "format": "TV",
-    "update": "minggu, populer"
+    "update": ""
   },
   {
     "title": "SpyxFamily Season 2",
@@ -980,15 +1338,15 @@
     "update": ""
   },
   {
-    "title": "SpyxFamily",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140960-Kb6R5nYQfjmP.jpg",
-    "year": 2022,
+    "title": "SpyxFamily Season 3",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177937-Tzgg6rAdhCoH.jpg",
+    "year": 2025,
     "genre": [
       "Action",
       "Comedy"
     ],
     "format": "TV",
-    "update": ""
+    "update": "minggu, populer"
   },
   {
     "title": "Suki demo kirai na amanojaku",
@@ -998,6 +1356,37 @@
       "Adventure",
       "Supernatural",
       "Romance"
+    ],
+    "format": "Movie",
+    "update": "Movie"
+  },
+  {
+    "title": "Summer Ghost",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130050-rXTPVJ9UGN8Y.jpg",
+    "year": 2021,
+    "genre": [
+      "Drama",
+      "Supernatural"
+    ],
+    "format": "Movie",
+    "update": "Movie"
+  },
+  {
+    "title": "Summer Pockets",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143200-42OaDCS6VEy3.png",
+    "year": 2025,
+    "genre": [
+      "Slice of Life"
+    ],
+    "format": "TV",
+    "update": ""
+  },
+  {
+    "title": "Suu-funkan no Yell wo",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173935-Co2AG8FvMo3f.jpg",
+    "year": 2024,
+    "genre": [
+      "Music"
     ],
     "format": "Movie",
     "update": "Movie"
@@ -1025,6 +1414,17 @@
     "update": "kamis"
   },
   {
+    "title": "Takopii no Genzai",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185407-7uzY4fA3hokP.jpg",
+    "year": 2025,
+    "genre": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "format": "ONA",
+    "update": ""
+  },
+  {
     "title": "Tenki no ko",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx106286-5COcpd0J9VbL.png",
     "year": 2019,
@@ -1032,17 +1432,6 @@
       "Fantasy",
       "Romance",
       "Drama"
-    ],
-    "format": "Movie",
-    "update": "Movie"
-  },
-  {
-    "title": "Tonari no Totoro",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx523-fErBvxOHP7IX.jpg",
-    "year": 1988,
-    "genre": [
-      "Adventure",
-      "Supernatural"
     ],
     "format": "Movie",
     "update": "Movie"
@@ -1072,6 +1461,21 @@
     "update": ""
   },
   {
+    "title": "Tokyo Ghoul",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b20605-k665mVkSug8D.jpg",
+    "year": "2014",
+    "genre": [
+      "Action",
+      "Drama",
+      "Horror",
+      "Mystery",
+      "Psychological",
+      "Supernatural"
+    ],
+    "format": "TV",
+    "update": ""
+  },
+  {
     "title": "Tomodachi no Imouto ga Ore ni dake Uzai",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129195-9BT4wE1QTLj2.jpg",
     "year": 2025,
@@ -1081,6 +1485,42 @@
     ],
     "format": "TV",
     "update": "minggu"
+  },
+  {
+    "title": "Tonari no Kaibutsu-kun",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx14227-VGxPG1xDZG7v.jpg",
+    "year": 2012,
+    "genre": [
+      "Slice of Life",
+      "Comedy",
+      "Romance"
+    ],
+    "format": "TV",
+    "update": ""
+  },
+  {
+    "title": "Tonari no Totoro",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx523-fErBvxOHP7IX.jpg",
+    "year": 1988,
+    "genre": [
+      "Adventure",
+      "Supernatural"
+    ],
+    "format": "Movie",
+    "update": "Movie"
+  },
+  {
+    "title": "Tondemo Skill de Isekai Hourou Meshi",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156067-Jovklss4VWIx.jpg",
+    "year": 2023,
+    "genre": [
+      "Comedy",
+      "Adventure",
+      "Fantasy",
+      "Gourmet"
+    ],
+    "format": "TV",
+    "update": ""
   },
   {
     "title": "Tondemo Skill de Isekai Hourou Meshi 2",
@@ -1096,14 +1536,13 @@
     "update": "rabu"
   },
   {
-    "title": "Tondemo Skill de Isekai Hourou Meshi",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156067-Jovklss4VWIx.jpg",
-    "year": 2023,
+    "title": "Toradora!",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4224-PXVMBLNwy2aF.jpg",
+    "year": 2008,
     "genre": [
+      "Slice of Life",
       "Comedy",
-      "Adventure",
-      "Fantasy",
-      "Gourmet"
+      "Romance"
     ],
     "format": "TV",
     "update": ""
@@ -1131,17 +1570,6 @@
     "update": "jumat"
   },
   {
-    "title": "Uma Musume Cinderella Gray Part 2",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195240-hKcmllV6YHQT.jpg",
-    "year": 2025,
-    "genre": [
-      "Drama",
-      "Sports"
-    ],
-    "format": "TV",
-    "update": "minggu, populer"
-  },
-  {
     "title": "Uma Musume Cinderella Gray",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180516-lebpoKLkw6E3.jpg",
     "year": 2025,
@@ -1151,6 +1579,17 @@
     ],
     "format": "TV",
     "update": ""
+  },
+  {
+    "title": "Uma Musume Cinderella Gray Part 2",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195240-hKcmllV6YHQT.jpg",
+    "year": 2025,
+    "genre": [
+      "Drama",
+      "Sports"
+    ],
+    "format": "TV",
+    "update": "minggu, populer"
   },
   {
     "title": "Violet Evergarden Movie",
@@ -1207,451 +1646,12 @@
     "update": "rabu"
   },
   {
-    "title": "One Piece Film Red",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141902-fTyoTk8F8qOl.jpg",
-    "year": 2022,
-    "genre": [
-      "Action",
-      "Adventure",
-      "Comedy",
-      "Drama",
-      "Fantasy"
-    ],
-    "format": "Movie",
-    "update": "Movie"
-  },
-  {
-    "title": "Shingeki no Kyojin The Final Season Kanketsu-hen",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162314-qIWdAAFtvY8J.jpg",
-    "year": 2023,
-    "genre": [
-      "Action",
-      "Drama"
-    ],
-    "format": "Movie",
-    "update": "Movie"
-  },
-  {
-    "title": "Project Sekai Movie Kowareta Sekai to Utaenai Miku",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179878-jG5GTXhe2vou.jpg",
-    "year": 2025,
-    "genre": [
-      "Music"
-    ],
-    "format": "Movie",
-    "update": "Movie"
-  },
-  {
-    "title": "Mononoke Movie 1 Karakasa",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151117-AOcwR3mXCDx7.jpg",
-    "year": 2024,
-    "genre": [
-      "Horor",
-      "Mystery",
-      "Supernatural"
-    ],
-    "format": "Movie",
-    "update": "Movie"
-  },
-  {
-    "title": "BanG Dream! Movie Poppin Dream!",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx117765-R9vazugUMUE0.jpg",
-    "year": 2022,
-    "genre": [
-      "Music"
-    ],
-    "format": "Movie",
-    "update": "Movie"
-  },
-  {
-    "title": "Ganbatte Ikimasshoi",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176245-OoBRZRVUwO7t.png",
-    "year": 2024,
-    "genre": [
-      "Sports"
-    ],
-    "format": "Movie",
-    "update": "Movie"
-  },
-  {
-    "title": "Senpai wa Otokonoko Movie Ame Nochi Hare",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182158-ztLTD2FKPnrd.jpg",
-    "year": 2025,
-    "genre": [
-      "Drama",
-      "Romance"
-    ],
-    "format": "Movie",
-    "update": "Movie"
-  },
-  {
-    "title": "Oomuro-ke Dear Friends",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174383-WIAKPEGRV4b8.jpg",
-    "year": 2024,
-    "genre": [
-      "Comedy",
-      "Girls Love"
-    ],
-    "format": "Movie",
-    "update": "Movie"
-  },
-  {
-    "title": "Suu-funkan no Yell wo",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173935-Co2AG8FvMo3f.jpg",
-    "year": 2024,
-    "genre": [
-      "Music"
-    ],
-    "format": "Movie",
-    "update": "Movie"
-  },
-  {
-    "title": "Takopii no Genzai",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185407-7uzY4fA3hokP.jpg",
-    "year": 2025,
-    "genre": [
-      "Drama",
-      "Sci-Fi"
-    ],
-    "format": "ONA",
-    "update": ""
-  },
-  {
-    "title": "Overflow",
-    "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1781/104461.webp?s=9588f231a2f1d6cfb03a201045cfa582",
-    "year": 2020,
-    "genre": [
-      "Hentai"
-    ],
-    "format": "ONA",
-    "update": ""
-  },
-  {
-    "title": "Ookami-san wa Taberaretai",
-    "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1020/108606.webp?s=31454fc2a7621709a71d3babe28d213a",
-    "year": 2020,
-    "genre": [
-      "Hentai"
-    ],
-    "format": "ONA",
-    "update": ""
-  },
-  {
-    "title": "Modaete yo Adam-kun",
-    "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1868/140198.webp?s=ba323059009ce3b6afd5733dd8264a98",
-    "year": 2023,
-    "genre": [
-      "Hentai"
-    ],
-    "format": "ONA",
-    "update": ""
-  },
-  {
-    "title": "Detective conan",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx235-MyYT7K3chBdO.jpg",
-    "year": 1996,
-    "genre": [
-      "Adventure",
-      "Comedy",
-      "Mystery"
-    ],
-    "format": "TV",
-    "update": ""
-  },
-  {
-    "title": "BLEACH Sennen Kessen-hen",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116674-p3zK4PUX2Aag.jpg",
-    "year": 2022,
-    "genre": [
-      "Action",
-      "Adventure",
-      "Supernatural"
-    ],
-    "format": "TV",
-    "update": ""
-  },
-  {
-    "title": "BLEACH Sennen Kessen-hen-Ketsubetsu-tan",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159322-Sp1GflRhE6Po.jpg",
-    "year": 2023,
-    "genre": [
-      "Action",
-      "Adventure",
-      "Supernatural"
-    ],
-    "format": "TV",
-    "update": ""
-  },
-  {
-    "title": "BLEACH Sennen Kessen-hen-Soukoku-tan",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169755-Rqb7MjnzdTc6.jpg",
-    "year": 2024,
-    "genre": [
-      "Action",
-      "Adventure",
-      "Supernatural"
-    ],
-    "format": "TV",
-    "update": ""
-  },
-  {
-    "title": "Ranma 1/2 2024",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178533-b88OLxm50jcH.jpg",
-    "year": 2024,
-    "genre": [
-      "Action",
-      "Comedy",
-      "Romance",
-      "Ecchi"
-    ],
-    "format": "TV",
-    "update": ""
-  },
-  {
-    "title": "Ranma 1/2 2024 2nd Season",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185731-PJ6WKcFDUI4B.jpg",
-    "year": 2025,
-    "genre": [
-      "Action",
-      "Comedy",
-      "Romance",
-      "Ecchi"
-    ],
-    "format": "TV",
-    "update": "minggu"
-  },
-  {
-    "title": "Shaman King 2021",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx119675-ziQ6Lb80zEx4.png",
-    "year": 2021,
-    "genre": [
-      "Action",
-      "Adventure",
-      "Supernatural"
-    ],
-    "format": "TV",
-    "update": ""
-  },
-  {
-    "title": "Shaman King",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154-hSYv4EtcBE1p.png",
-    "year": 2001,
-    "genre": [
-      "Action",
-      "Adventure",
-      "Supernatural"
-    ],
-    "format": "TV",
-    "update": ""
-  },
-  {
-    "title": "Shaman King Flowers",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b147850-USIKDjVK7xTn.jpg",
-    "year": 2024,
-    "genre": [
-      "Action",
-      "Adventure",
-      "Supernatural"
-    ],
-    "format": "TV",
-    "update": ""
-  },
-  {
-    "title": "Engage Kiss",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146625-DmXjpJ2y8fDn.jpg",
-    "year": 2022,
-    "genre": [
-      "Action",
-      "Comedy",
-      "Romance"
-    ],
-    "format": "TV",
-    "update": ""
-  },
-  {
     "title": "Yosuga no Sora",
     "cover": "https://ik.imagekit.io/tzttdw0wd//tr:w-400,q-90/https%3A%2F%2Fcdn.myanimelist.net%2Fimages%2Fanime%2F5%2F76216l.jpg",
     "year": 2010,
     "genre": [
       "Drama",
       "Ecchi",
-      "Romance"
-    ],
-    "format": "TV",
-    "update": ""
-  },
-  {
-    "title": "Mirai Nikki",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10620-dUZeNej0W4QN.png",
-    "year": 2010,
-    "genre": [
-      "Action",
-      "Supernatural"
-    ],
-    "format": "TV",
-    "update": ""
-  },
-  {
-    "title": "Chainsaw Man",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127230-DdP4vAdssLoz.png",
-    "year": 2022,
-    "genre": [
-      "Action",
-      "Fantasy"
-    ],
-    "format": "TV",
-    "update": ""
-  },
-  {
-    "title": "Summer Pockets",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143200-42OaDCS6VEy3.png",
-    "year": 2025,
-    "genre": [
-      "Slice of Life"
-    ],
-    "format": "TV",
-    "update": ""
-  },
-  {
-    "title": "Inu to Hasami wa Tsukaiyou",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx17831-V7uLx7u0gDJv.jpg",
-    "year": 2013,
-    "genre": [
-      "Comedy",
-      "Supernatural"
-    ],
-    "format": "TV",
-    "update": ""
-  },
-  {
-    "title": "GATE",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20994-pSDk4I58jAK5.jpg",
-    "year": 2015,
-    "genre": [
-      "Action",
-      "Adventure",
-      "Fantasy"
-    ],
-    "format": "TV",
-    "update": ""
-  },
-  {
-    "title": "Just Because",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98820-EVHeNEUOWkh3.jpg",
-    "year": 2017,
-    "genre": [
-      "Slice of Life",
-      "Drama",
-      "Romance"
-    ],
-    "format": "TV",
-    "update": ""
-  },
-  {
-    "title": "Toradora!",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4224-PXVMBLNwy2aF.jpg",
-    "year": 2008,
-    "genre": [
-      "Slice of Life",
-      "Comedy",
-      "Romance"
-    ],
-    "format": "TV",
-    "update": ""
-  },
-  {
-    "title": "High Score Girl",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20574-cUPxastH5vAm.jpg",
-    "year": 2018,
-    "genre": [
-      "Game",
-      "Comedy",
-      "Romance"
-    ],
-    "format": "TV",
-    "update": ""
-  },
-  {
-    "title": "Sankarea",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11499-SeYog5nP4Uks.png",
-    "year": 2012,
-    "genre": [
-      "Comedy",
-      "Ecchi",
-      "Horor",
-      "Romance"
-    ],
-    "format": "TV",
-    "update": ""
-  },
-  {
-    "title": "Orange",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21647-zMUXNhcVyRyv.png",
-    "year": 2016,
-    "genre": [
-      "Sci-Fi",
-      "Drama",
-      "Romance"
-    ],
-    "format": "TV",
-    "update": ""
-  },
-  {
-    "title": "Nazo no Kanojo X",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12467-FtvouFLt2Vkr.jpg",
-    "year": 2012,
-    "genre": [
-      "Romance"
-    ],
-    "format": "TV",
-    "update": ""
-  },
-  {
-    "title": "Karakai Jouzu no Takagi-san 2",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx107068-KJq0eFP0GTjL.jpg",
-    "year": 2019,
-    "genre": [
-      "Slice of Life",
-      "Comedy",
-      "Romance"
-    ],
-    "format": "TV",
-    "update": ""
-  },
-  {
-    "title": "Karakai Jouzu no Takagi-san",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99468-XayCplkIL3Gf.png",
-    "year": 2018,
-    "genre": [
-      "Slice of Life",
-      "Comedy",
-      "Romance"
-    ],
-    "format": "TV",
-    "update": ""
-  },
-  {
-    "title": "Tonari no Kaibutsu-kun",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx14227-VGxPG1xDZG7v.jpg",
-    "year": 2012,
-    "genre": [
-      "Slice of Life",
-      "Comedy",
-      "Romance"
-    ],
-    "format": "TV",
-    "update": ""
-  },
-  {
-    "title": "Elfen Lied",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx226-MibyRKhIrnTe.png",
-    "year": 2004,
-    "genre": [
-      "Action",
-      "Horor",
-      "Psychological",
-      "Supernatural",
-      "Drama",
       "Romance"
     ],
     "format": "TV",
