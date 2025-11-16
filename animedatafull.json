@@ -49,7 +49,7 @@
     "year": "2012",
     "genre": [
       "Mystery",
-      "Horror",
+      "Horor",
       "Supernatural"
     ],
     "format": "TV",
@@ -97,7 +97,7 @@
       "Adventure",
       "Drama",
       "Fantasy",
-      "Horror",
+      "Horor",
       "Supernatural"
     ],
     "format": "TV",
@@ -112,7 +112,7 @@
       "Adventure",
       "Drama",
       "Fantasy",
-      "Horror",
+      "Horor",
       "Romance",
       "Supernatural"
     ],
@@ -241,6 +241,18 @@
     ],
     "format": "TV",
     "update": "rabu"
+  },
+  {
+    "title": "Corpse Party - Tortured Souls",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx15037-32PupkILJcuv.jpg",
+    "year": "2013",
+    "genre": [
+      "Horor",
+      "Mystery",
+      "Supernatural"
+    ],
+    "format": "OVA",
+    "update": ""
   },
   {
     "title": "DanDaDan",
@@ -558,6 +570,20 @@
     "update": "selasa"
   },
   {
+    "title": "Ito Junji Collection",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx99940-pxsliSVHi0sj.jpg",
+    "year": "2018",
+    "genre": [
+      "Drama",
+      "Horor",
+      "Mystery",
+      "Psychological",
+      "Supernatural"
+    ],
+    "format": "TV",
+    "update": ""
+  },
+  {
     "title": "Just Because",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98820-EVHeNEUOWkh3.jpg",
     "year": 2017,
@@ -778,6 +804,18 @@
     "update": "Movie"
   },
   {
+    "title": "Kissxsis",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5042-FZ8XdXStvn0u.png",
+    "year": "2008",
+    "genre": [
+      "Comedy",
+      "Ecchi",
+      "Romance"
+    ],
+    "format": "OVA",
+    "update": ""
+  },
+  {
     "title": "Koe no Katachi",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20954-sYRfE5jQRtSB.jpg",
     "year": 2016,
@@ -788,6 +826,17 @@
     ],
     "format": "Movie",
     "update": "Movie"
+  },
+  {
+    "title": "Koi to Uso",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98320-VwCcTBeEs08J.jpg",
+    "year": "2017",
+    "genre": [
+      "Drama",
+      "Romance"
+    ],
+    "format": "TV",
+    "update": ""
   },
   {
     "title": "Kusuriya no Hitorigoto",
@@ -852,6 +901,18 @@
     "genre": [
       "Action",
       "Supernatural"
+    ],
+    "format": "TV",
+    "update": ""
+  },
+  {
+    "title": "MM!",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8424-p2jlUzCWUp1G.jpg",
+    "year": "2010",
+    "genre": [
+      "Harem",
+      "Comedy",
+      "Ecchi"
     ],
     "format": "TV",
     "update": ""
@@ -1467,7 +1528,7 @@
     "genre": [
       "Action",
       "Drama",
-      "Horror",
+      "Horor",
       "Mystery",
       "Psychological",
       "Supernatural"
@@ -1590,6 +1651,20 @@
     ],
     "format": "TV",
     "update": "minggu, populer"
+  },
+  {
+    "title": "Uzumaki",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx111314-ui2D6cvpNumy.jpg",
+    "year": "2024",
+    "genre": [
+      "Drama",
+      "Horor",
+      "Mystery",
+      "Psychological",
+      "Supernatural"
+    ],
+    "format": "TV",
+    "update": ""
   },
   {
     "title": "Violet Evergarden Movie",
