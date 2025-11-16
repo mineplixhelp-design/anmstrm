@@ -345,7 +345,6 @@
     "year": 2004,
     "genre": [
       "Adventure",
-      "Award Winning",
       "Drama",
       "Fantasy",
       "Romance"
@@ -1429,6 +1428,161 @@
     "genre": [
       "Action",
       "Fantasy"
+    ],
+    "format": "TV",
+    "update": ""
+  },
+  {
+    "title": "Summer Pockets",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143200-42OaDCS6VEy3.png",
+    "year": 2025,
+    "genre": [
+      "Slice of Life"
+    ],
+    "format": "TV",
+    "update": ""
+  },
+  {
+    "title": "Inu to Hasami wa Tsukaiyou",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx17831-V7uLx7u0gDJv.jpg",
+    "year": 2013,
+    "genre": [
+      "Comedy",
+      "Supernatural"
+    ],
+    "format": "TV",
+    "update": ""
+  },
+  {
+    "title": "GATE",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20994-pSDk4I58jAK5.jpg",
+    "year": 2015,
+    "genre": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "format": "TV",
+    "update": ""
+  },
+  {
+    "title": "Just Because",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98820-EVHeNEUOWkh3.jpg",
+    "year": 2017,
+    "genre": [
+      "Slice of Life",
+      "Drama",
+      "Romance"
+    ],
+    "format": "TV",
+    "update": ""
+  },
+  {
+    "title": "Toradora!",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4224-PXVMBLNwy2aF.jpg",
+    "year": 2008,
+    "genre": [
+      "Slice of Life",
+      "Comedy",
+      "Romance"
+    ],
+    "format": "TV",
+    "update": ""
+  },
+  {
+    "title": "High Score Girl",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20574-cUPxastH5vAm.jpg",
+    "year": 2018,
+    "genre": [
+      "Game",
+      "Comedy",
+      "Romance"
+    ],
+    "format": "TV",
+    "update": ""
+  },
+  {
+    "title": "Sankarea",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11499-SeYog5nP4Uks.png",
+    "year": 2012,
+    "genre": [
+      "Comedy",
+      "Ecchi",
+      "Horor",
+      "Romance"
+    ],
+    "format": "TV",
+    "update": ""
+  },
+  {
+    "title": "Orange",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21647-zMUXNhcVyRyv.png",
+    "year": 2016,
+    "genre": [
+      "Sci-Fi",
+      "Drama",
+      "Romance"
+    ],
+    "format": "TV",
+    "update": ""
+  },
+  {
+    "title": "Nazo no Kanojo X",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12467-FtvouFLt2Vkr.jpg",
+    "year": 2012,
+    "genre": [
+      "Romance"
+    ],
+    "format": "TV",
+    "update": ""
+  },
+  {
+    "title": "Karakai Jouzu no Takagi-san 2",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx107068-KJq0eFP0GTjL.jpg",
+    "year": 2019,
+    "genre": [
+      "Slice of Life",
+      "Comedy",
+      "Romance"
+    ],
+    "format": "TV",
+    "update": ""
+  },
+  {
+    "title": "Karakai Jouzu no Takagi-san",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99468-XayCplkIL3Gf.png",
+    "year": 2018,
+    "genre": [
+      "Slice of Life",
+      "Comedy",
+      "Romance"
+    ],
+    "format": "TV",
+    "update": ""
+  },
+  {
+    "title": "Tonari no Kaibutsu-kun",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx14227-VGxPG1xDZG7v.jpg",
+    "year": 2012,
+    "genre": [
+      "Slice of Life",
+      "Comedy",
+      "Romance"
+    ],
+    "format": "TV",
+    "update": ""
+  },
+  {
+    "title": "Elfen Lied",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx226-MibyRKhIrnTe.png",
+    "year": 2004,
+    "genre": [
+      "Action",
+      "Horor",
+      "Psychological",
+      "Supernatural",
+      "Drama",
+      "Romance"
     ],
     "format": "TV",
     "update": ""
