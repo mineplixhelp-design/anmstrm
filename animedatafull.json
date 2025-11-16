@@ -1,5 +1,75 @@
 [
   {
+    "title": "Tokyo Ghoul",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b20605-k665mVkSug8D.jpg",
+    "year": "2014",
+    "genre": [
+      "Action",
+      "Drama",
+      "Horror",
+      "Mystery",
+      "Psychological",
+      "Supernatural"
+    ],
+    "format": "TV",
+    "update": ""
+  },
+  {
+    "title": "Another",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11111-gvvE5bBYsyFo.png",
+    "year": "2012",
+    "genre": [
+      "Mystery",
+      "Horror",
+      "Supernatural"
+    ],
+    "format": "TV",
+    "update": ""
+  },
+  {
+    "title": "Berserk 2017",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97643-5s3MVIfTYIuQ.jpg",
+    "year": "2017",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Horror",
+      "Romance",
+      "Supernatural"
+    ],
+    "format": "TV",
+    "update": ""
+  },
+  {
+    "title": "Berserk 2016",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21560-6iifjdssfebJ.jpg",
+    "year": "2016",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Horror",
+      "Supernatural"
+    ],
+    "format": "TV",
+    "update": ""
+  },
+  {
+    "title": "Karakai Jouzu no Takagi-san 3",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138424-97Nz1P7M3O2d.png",
+    "year": "2022",
+    "genre": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "format": "TV",
+    "update": ""
+  },
+  {
     "title": "3-nen Z-gumi Ginpachi-sensei",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162890-vDRlo1KuRM6W.jpg",
     "year": 2025,
