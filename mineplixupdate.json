@@ -1,36 +1,20 @@
 {
   "updates": [
     {
-      "id": "upd-2025-11-29-01",
       "title": "Update Anime Besar",
       "description": "Penambahan 100 anime baru, peningkatan kecepatan fetch, dan otomatisasi indexing.",
-      "date": "2025-11-29",
-      "badge": "major",
-      "images": [
-        "https://i.imgur.com/Sz0f4rJ.jpeg",
-        "https://i.imgur.com/8E2ik2Q.png"
-      ]
+      "date": "2025-11-29"
     },
     {
-      "id": "upd-2025-11-29-02",
       "title": "Versi 2.6.0 Release",
       "description": "Rilis tampilan UI baru, optimasi kartu, navigasi lebih halus, dan peningkatan FPS animasi.",
-      "date": "2025-11-29",
-      "badge": "update",
-      "images": [
-        "https://i.imgur.com/mVZpGmN.png"
+      "date": "2025-11-29"
       ]
     },
     {
-      "id": "upd-2025-11-27-01",
       "title": "Versi 2.6.0 Patch",
       "description": "Perbaikan animasi, optimasi database, serta penambahan fitur komentar, like, dislike, save, dan login akun.",
-      "date": "2025-11-27",
-      "badge": "patch",
-      "images": [
-        "https://i.imgur.com/9Fh7BGs.jpeg",
-        "https://i.imgur.com/gm5tOaq.jpeg"
-      ]
+      "date": "2025-11-27"
     }
   ]
 }
