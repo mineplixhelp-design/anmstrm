@@ -1,24 +1,41 @@
 {
   "updates": [
     {
+      "id": "upd-2025-11-29-01",
       "title": "Update Anime Besar",
-      "description": "Penambahan 100 data anime baru serta optimalisasi pencarian.",
-      "date": "29 November 2025",
-      "image": "https://i.imgur.com/Sz0f4rJ.jpeg",
+      "description": "Penambahan 100 anime baru, peningkatan kecepatan fetch, dan otomatisasi indexing.",
+      "date": "2025-11-29",
+      "badge": "major",
+      "type": ["anime", "database"],
+      "images": [
+        "https://i.imgur.com/Sz0f4rJ.jpeg",
+        "https://i.imgur.com/8E2ik2Q.png"
+      ],
       "link": "https://mineplix.com/update/anime100"
     },
     {
-      "title": "Versi 2.6.0",
-      "description": "Pembaruan desain UI, perbaikan performa, dan optimasi tampilan kartu.",
-      "date": "29 November 2025",
-      "image": "https://i.imgur.com/mVZpGmN.png",
+      "id": "upd-2025-11-29-02",
+      "title": "Versi 2.6.0 Release",
+      "description": "Rilis tampilan UI baru, optimasi kartu, navigasi lebih halus, dan peningkatan FPS animasi.",
+      "date": "2025-11-29",
+      "badge": "update",
+      "type": ["ui", "performance"],
+      "images": [
+        "https://i.imgur.com/mVZpGmN.png"
+      ],
       "link": "https://mineplix.com/update/v260"
     },
     {
+      "id": "upd-2025-11-27-01",
       "title": "Versi 2.6.0 Patch",
-      "description": "Perbaikan animasi, peningkatan database, serta penambahan fitur komentar, like, dislike, save, dan login akun.",
-      "date": "27 November 2025",
-      "image": "https://i.imgur.com/9Fh7BGs.jpeg",
+      "description": "Perbaikan animasi, optimasi database, serta penambahan fitur komentar, like, dislike, save, dan login akun.",
+      "date": "2025-11-27",
+      "badge": "patch",
+      "type": ["feature", "database", "ui"],
+      "images": [
+        "https://i.imgur.com/9Fh7BGs.jpeg",
+        "https://i.imgur.com/gm5tOaq.jpeg"
+      ],
       "link": "https://mineplix.com/update/v260-patch"
     }
   ]
