@@ -6,12 +6,10 @@
       "description": "Penambahan 100 anime baru, peningkatan kecepatan fetch, dan otomatisasi indexing.",
       "date": "2025-11-29",
       "badge": "major",
-      "type": ["anime", "database"],
       "images": [
         "https://i.imgur.com/Sz0f4rJ.jpeg",
         "https://i.imgur.com/8E2ik2Q.png"
-      ],
-      "link": "https://mineplix.com/update/anime100"
+      ]
     },
     {
       "id": "upd-2025-11-29-02",
@@ -19,11 +17,9 @@
       "description": "Rilis tampilan UI baru, optimasi kartu, navigasi lebih halus, dan peningkatan FPS animasi.",
       "date": "2025-11-29",
       "badge": "update",
-      "type": ["ui", "performance"],
       "images": [
         "https://i.imgur.com/mVZpGmN.png"
-      ],
-      "link": "https://mineplix.com/update/v260"
+      ]
     },
     {
       "id": "upd-2025-11-27-01",
@@ -31,12 +27,10 @@
       "description": "Perbaikan animasi, optimasi database, serta penambahan fitur komentar, like, dislike, save, dan login akun.",
       "date": "2025-11-27",
       "badge": "patch",
-      "type": ["feature", "database", "ui"],
       "images": [
         "https://i.imgur.com/9Fh7BGs.jpeg",
         "https://i.imgur.com/gm5tOaq.jpeg"
-      ],
-      "link": "https://mineplix.com/update/v260-patch"
+      ]
     }
   ]
 }
