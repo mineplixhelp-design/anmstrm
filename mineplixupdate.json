@@ -1,6 +1,20 @@
 {
   "updates": [
     {
+      "title": "Update anime",
+      "description": "Penambahan 100 anime data",
+      "date": "29 November 2025"
+    }
+  ]
+  "updates": [
+    {
+      "title": "versi 2.6.0",
+      "description": "Design optimalisasi and fitur update",
+      "date": "29 November 2025"
+    }
+  ]
+  "updates": [
+    {
       "title": "versi 2.6.0",
       "description": "New design ui update fixed animasi and update database new fitur update komentar like dislike save dan tentunya akun login.",
       "date": "27 November 2025"
