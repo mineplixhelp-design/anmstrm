@@ -1,19 +1,16 @@
 {
   "updates": [
     {
-      "title": "Update Anime Besar",
-      "description": "Penambahan 100 anime baru, peningkatan kecepatan fetch, dan otomatisasi indexing.",
-      "date": "2025-11-29"
+      "notificationId": "2",  <-- **Pastikan ini ada dan ID-nya lebih besar dari sebelumnya (misal, 1)**
+      "title": "Pembaruan Server",
+      "date": "30 November 2025",
+      "description": "Server telah diperbarui ke versi stabil. <url>https://mineplix.com/changelog</url>"
     },
     {
-      "title": "Versi 2.6.0 Release",
-      "description": "Rilis tampilan UI baru, optimasi kartu, navigasi lebih halus, dan peningkatan FPS animasi.",
-      "date": "2025-11-29"
-    },
-    {
-      "title": "Versi 2.6.0 Patch",
-      "description": "Perbaikan animasi, optimasi database, serta penambahan fitur komentar, like, dislike, save, dan login akun.",
-      "date": "2025-11-27"
+      "notificationId": "1",
+      "title": "Perbaikan Bug",
+      "date": "29 November 2025",
+      "description": "Memperbaiki masalah crash pada Android 10."
     }
   ]
 }
