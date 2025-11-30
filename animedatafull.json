@@ -12,28 +12,6 @@
     "update": ""
   },
   {
-    "title": "Yuri on Ice The Movie Ice Adolescence",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx98656-HRsD7skIzzGq.jpg",
-    "year": "2025",
-    "genre": [
-      "Sports",
-      "Drama"
-    ],
-    "format": "Movie",
-    "update": "Movie"
-  },
-  {
-    "title": "Yuri on Ice",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21709-aqPBDxJPruYR.png",
-    "year": "2016",
-    "genre": [
-      "Sports",
-      "Drama"
-    ],
-    "format": "TV",
-    "update": ""
-  },
-  {
     "title": "Yosuga no Sora",
     "cover": "https://upload.wikimedia.org/wikipedia/en/1/12/Yosuganosora_package.jpg",
     "year": 2010,
@@ -159,7 +137,7 @@
       "School"
     ],
     "format": "TV",
-    "update": ""
+    "update": "baru"
   },
   {
     "title": "Uma Musume Cinderella Gray Part 2",
@@ -941,20 +919,6 @@
     "update": ""
   },
   {
-    "title": "One Piece Film Red",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141902-fTyoTk8F8qOl.jpg",
-    "year": 2022,
-    "genre": [
-      "Action",
-      "Adventure",
-      "Comedy",
-      "Drama",
-      "Fantasy"
-    ],
-    "format": "Movie",
-    "update": "Movie"
-  },
-  {
     "title": "One Piece",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
     "year": 1999,
@@ -984,7 +948,7 @@
       "Romance"
     ],
     "format": "TV",
-    "update": ""
+    "update": "baru"
   },
   {
     "title": "Nanatsu no Taizai",
@@ -1476,7 +1440,7 @@
     "update": ""
   },
   {
-    "title": "Jujutsu Kaisen Season 1",
+    "title": "Jujutsu Kaisen",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
     "year": "2020",
     "genre": [
@@ -1673,7 +1637,7 @@
       "Drama"
     ],
     "format": "Movie",
-    "update": "Movie"
+    "update": "Movie, baru"
   },
   {
     "title": "Haikyuu",
@@ -1858,7 +1822,7 @@
       "Martial Arts"
     ],
     "format": "TV",
-    "update": ""
+    "update": "baru"
   },
   {
     "title": "Dr Stone Stone Wars",
@@ -1894,7 +1858,7 @@
       "Fantasy"
     ],
     "format": "Movie",
-    "update": "Movie"
+    "update": "Movie, baru"
   },
   {
     "title": "Dr Stone New World Part 2",
@@ -1930,7 +1894,7 @@
       "Fantasy"
     ],
     "format": "TV",
-    "update": ""
+    "update": "baru"
   },
   {
     "title": "Dororo",
@@ -2078,29 +2042,6 @@
     "update": "senin"
   },
   {
-    "title": "Chainsaw Man Movie Reze Arc",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171627-ZN9D7P46yHnw.png",
-    "year": "2025",
-    "genre": [
-      "Action",
-      "Adventure",
-      "Fantasy"
-    ],
-    "format": "Movie",
-    "update": "Movie"
-  },
-  {
-    "title": "Chainsaw Man",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127230-DdP4vAdssLoz.png",
-    "year": 2022,
-    "genre": [
-      "Action",
-      "Fantasy"
-    ],
-    "format": "TV",
-    "update": ""
-  },
-  {
     "title": "Chainsaw Man",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127230-DdP4vAdssLoz.png",
     "year": "2022",
@@ -2110,7 +2051,7 @@
       "Fantasy"
     ],
     "format": "TV",
-    "update": ""
+    "update": "baru"
   },
   {
     "title": "Bukiyou na Senpai",
