@@ -4,19 +4,16 @@
       "notificationId": "3",
       "title": "Pengoptimalan data",
       "date": "30 November 2025",
-      "description": "mengoptimalkan data aku pengguna merapihkan data anda kami akan terus mengembangkan ui dan animasi lebih lancar."
-    },
+      "description": "mengoptimalkan data aku pengguna..."
+    }
+  ],
+  "events": [
     {
-      "notificationId": "2",
-      "title": "update data anime",
-      "date": "29 November 2025",
-      "description": "kunjungi mineplix.my.id/status untuk melihat"
-    },
-    {
-      "notificationId": "1",
-      "title": "Perbaikan Bug",
-      "date": "28 November 2025",
-      "description": "update perbaiki hug expe tidak nambah silahkan update ke versi 2.6.0 yang stabil."
+      "notificationId": "3",
+      "title": "Promo Spesial Akhir Tahun!",
+      "date": "1 - 31 Desember 2025",
+      "imageUrl": "https://link-ke-gambar-promo.jpg",
+      "description": "Dapatkan diskon 50% untuk Premium selama bulan Desember! Buruan cek sekarang. <url>https://mineplix.com/promo</url>"
     }
   ]
 }
