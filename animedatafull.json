@@ -1,17 +1,5 @@
 [
   {
-    "title": "Zom 100 Bucket List of the Dead",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159831-cJUNqCqzuApc.png",
-    "year": "2023",
-    "genre": [
-      "Action",
-      "Adventure",
-      "Fantasy"
-    ],
-    "format": "TV",
-    "update": ""
-  },
-  {
     "title": "Yosuga no Sora",
     "cover": "https://upload.wikimedia.org/wikipedia/en/1/12/Yosuganosora_package.jpg",
     "year": 2010,
@@ -92,18 +80,6 @@
     "update": "kamis"
   },
   {
-    "title": "Vivy Fluorite Eye Song",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128546-UIwyhuhjxmL0.jpg",
-    "year": "2021",
-    "genre": [
-      "Action",
-      "Adventure",
-      "Comedy"
-    ],
-    "format": "TV",
-    "update": ""
-  },
-  {
     "title": "Violet Evergarden Movie",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103047-odblDHHEdehK.jpg",
     "year": 2020,
@@ -137,7 +113,7 @@
       "School"
     ],
     "format": "TV",
-    "update": "baru"
+    "update": ""
   },
   {
     "title": "Uma Musume Cinderella Gray Part 2",
@@ -157,30 +133,6 @@
     "genre": [
       "Drama",
       "Sports"
-    ],
-    "format": "TV",
-    "update": ""
-  },
-  {
-    "title": "Tower of God Season 2",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153406-dU2RLKgMUF2U.jpg",
-    "year": "2024",
-    "genre": [
-      "Action",
-      "Adventure",
-      "Fantasy"
-    ],
-    "format": "TV",
-    "update": ""
-  },
-  {
-    "title": "Tower of God",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx115230-QHOdSN7yt8ab.jpg",
-    "year": "2020",
-    "genre": [
-      "Action",
-      "Adventure",
-      "Fantasy"
     ],
     "format": "TV",
     "update": ""
@@ -302,45 +254,6 @@
       "Mystery",
       "Psychological",
       "Supernatural"
-    ],
-    "format": "TV",
-    "update": ""
-  },
-  {
-    "title": "The Duke of Death and His Maid Season 3",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169584-e9X229cmrh8j.jpg",
-    "year": "2023",
-    "genre": [
-      "Action",
-      "Adventure",
-      "Fantasy",
-      "Comedy"
-    ],
-    "format": "TV",
-    "update": ""
-  },
-  {
-    "title": "The Duke of Death and His Maid Season 2",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139435-7cLDzwDsRqAn.png",
-    "year": "2022",
-    "genre": [
-      "Action",
-      "Adventure",
-      "Fantasy",
-      "Comedy"
-    ],
-    "format": "TV",
-    "update": ""
-  },
-  {
-    "title": "The Duke of Death and His Maid",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129277-ou64knqN2eQT.jpg",
-    "year": "2021",
-    "genre": [
-      "Action",
-      "Adventure",
-      "Fantasy",
-      "Comedy"
     ],
     "format": "TV",
     "update": ""
@@ -819,18 +732,6 @@
     "update": "jumat"
   },
   {
-    "title": "Platinum End",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127401-fVKVbuIE5W5Q.jpg",
-    "year": "2021",
-    "genre": [
-      "Action",
-      "Adventure",
-      "Fantasy"
-    ],
-    "format": "TV",
-    "update": ""
-  },
-  {
     "title": "Overflow",
     "cover": "https://cdn.myanimelist.net/r/200x268/images/anime/1781/104461.webp?s=9588f231a2f1d6cfb03a201045cfa582",
     "year": 2020,
@@ -1068,6 +969,20 @@
     ],
     "format": "ONA",
     "update": ""
+  },
+  {
+    "title": "Mobile Suit Gundam SEED Destiny",
+    "cover": "https://cdn.myanimelist.net/r/130x194/images/anime/1700/91080.webp",
+    "year": "2005",
+    "genre": [
+      "Action",
+      "Drama",
+      "Mecha",
+      "Military",
+      "Romance"
+    ],
+    "format": "TV",
+    "update": "baru"
   },
   {
     "title": "MM!",
@@ -1596,18 +1511,6 @@
     "update": "selasa"
   },
   {
-    "title": "Heavenly Delusion",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155783-YosKbsmZzuDE.jpg",
-    "year": "2023",
-    "genre": [
-      "Action",
-      "Adventure",
-      "Fantasy"
-    ],
-    "format": "TV",
-    "update": ""
-  },
-  {
     "title": "Harem Camp",
     "cover": "https://cdn.myanimelist.net/images/anime/1669/126883.jpg",
     "year": 2022,
@@ -1801,18 +1704,6 @@
     "update": "senin"
   },
   {
-    "title": "Dungeon Meshi",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153518-IVXPDY5ph3kO.jpg",
-    "year": "2024",
-    "genre": [
-      "Action",
-      "Adventure",
-      "Fantasy"
-    ],
-    "format": "TV",
-    "update": ""
-  },
-  {
     "title": "Dragon Ball",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx223-scE5uJfXqqj8.png",
     "year": "1986",
@@ -1894,7 +1785,7 @@
       "Fantasy"
     ],
     "format": "TV",
-    "update": "baru"
+    "update": ""
   },
   {
     "title": "Dororo",
