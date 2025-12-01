@@ -2,7 +2,6 @@
   "description": "Setelah pertarungan yang menakjubkan dengan Ichibei Hyousube—pemimpin Pengawal Kerajaan Soul Society—Yhwach yang kuat bergerak ke tahap akhir dari rencana induknya. Ia bertujuan untuk membunuh Raja Jiwa, makhluk yang keberadaannya mempertahankan status quo dari tiga dunia: Hueco Mundo, Soul Society, dan alam manusia tempat Ichigo Kurosaki dan teman-teman terdekatnya berasal. Menaklukkan pertarungannya sendiri dengan sisa Pengawal Kerajaan, Uryuu Ishida bergabung dengan Yhwach dalam upayanya untuk menciptakan dunia baru menurut bayangannya.",
   "video": "vidio.html#bleach-sennen-kessen-hen-soukoku-tan",
   "production": "Studio Pierrot",
-  "release": "5 Oktober 2024",
   "rating": "8.6",
   "episodes": [
     {
@@ -66,17 +65,17 @@
     {
       "title": "BLEACH",
       "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx269-d2GmRkJbMopq.png",
-      "url": "vidioplayer.html#bleach"
+      "url": "bleach"
     },
     {
       "title": "BLEACH: Sennen Kessen-hen",
       "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116674-p3zK4PUX2Aag.jpg",
-      "url": "vidioplayer.html#bleach-sennen-kessen-hen"
+      "url": "bleach-sennen-kessen-hen"
     },
     {
       "title": "BLEACH: Sennen Kessen-hen - Ketsubetsu-tan",
       "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159322-Sp1GflRhE6Po.jpg",
-      "url": "vidioplayer.html#bleach-sennen-kessen-hen-ketsubetsu-tan"
+      "url": "bleach-sennen-kessen-hen-ketsubetsu-tan"
     }
   ]
 }
