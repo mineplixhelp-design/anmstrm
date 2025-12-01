@@ -1,12 +1,7 @@
 {
-  "title": "DanDaDan S2",
-  "altTitle": "Dandadan S2",
-  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185660-uB8RUMBGovGr.jpg",
-  "genre": ["Action", "Comedy", "Supernatural", "Sci-Fi"],
   "description": "Musim kedua melanjutkan kisah Momo Ayase dan Ken 'Okarun' Takakura yang kembali menghadapi kekuatan supranatural seperti yōkai dan alien. Aksi semakin intens dan misteri makin dalam seiring hubungan mereka yang berkembang.",
   "video": "vidio.html#dandadan-s2",
   "production": "Science SARU",
-  "release": "Juli 2025",
   "rating": "8.5",
   "episodes": [
     {
@@ -62,7 +57,7 @@
     {
       "title": "DanDaDan",
       "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
-      "url": "vidioplayer.html#dandadan"
+      "url": "dandadan"
     }
   ]
 }
