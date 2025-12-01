@@ -1,12 +1,7 @@
 {
-  "title": "Kakuriyo no Yadomeshi",
-  "altTitle": "Kakuriyo: Bed & Breakfast for Spirits",
-  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100500-D1InEy2GriJV.jpg",
-  "genre": ["Drama", "Fantasy", "Romance", "Gourmet"],
   "description": "Ditinggalkan ibunya sejak kecil, Aoi Tsubaki selalu memiliki kemampuan untuk melihat ayakashi—roh dari Alam Tersembunyi. Shirou Tsubaki, kakeknya yang memiliki kemampuan yang sama, mengasuhnya dan mengajarinya cara hidup damai bersama ayakashi. Ketika kakeknya meninggal dunia secara tiba-tiba, Aoi yang mandiri harus melanjutkan kuliahnya, hanya berbekal pengetahuan memasak sebagai perlindungan dari roh pemakan manusia. Dengan harapan ayakashi tidak akan menjadikan dirinya atau manusia tak dikenal lainnya sebagai santapan lezat, ia pun memberanikan diri untuk memberi makan makhluk-makhluk lapar yang melintasi jalannya.",
   "video": "vidio.html#kakuriyo-no-yadomeshi",
   "production": "GONZO",
-  "release": "2 April 2018",
   "rating": "7.5",
   "episodes": [
     {
@@ -118,7 +113,7 @@
     {
       "title": "Kakuriyo no Yadomeshi Ni",
       "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177271-anyazmpWyX3m.jpg",
-      "url": "vidioplayer.html#kakuriyo-no-yadomeshi-ni"
+      "url": "kakuriyo-no-yadomeshi-ni"
     }
   ]
 }
