@@ -2,7 +2,6 @@
   "description": "The Forger family — master spy Loid (Twilight), assassin Yor (Thorn Princess), and telepath daughter Anya — return for their next mission. Season 3 begins October 4 2025 and continues the thrill of espionage, family bonds, and unexpected twists.",
   "video": "vidio.html#spyxfamily-season-3",
   "production": "WIT Studio & CloverWorks",
-  "release": "October 4, 2025",
   "rating": "8.1",
   "episodes": [
     {
@@ -32,18 +31,26 @@
     {
       "number": 7,
       "url": "https://ririsa.my.id/kdrive/OJ76dISEOiF0W/Kuramanime-SPYFAM_S3-07-720p-BGlobal.mp4?lud=1763219770&pid=40027&sid=208901&cce=1"
+    },
+    {
+      "number": 8,
+      "url": "https://tantei.my.id/kdrive/492oh3reqBTTJDl/Kuramanime-SPYFAM_S3-08-720p-BGlobal.mp4?lud=1763824506&pid=40310&sid=210844&cce=1"
+    },
+    {
+      "number": 9,
+      "url": "https://iino.my.id/kdrive/RnYGKzHGZiN5bKc/Kuramanime-SPYFAM_S3-09-720p-BGlobal.mp4?lud=1764429307&pid=40664&sid=212859&cce=1"
     }
   ],
   "related": [
     {
       "title": "SpyxFamily Season 2",
       "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b158927-lfO85WVguYgc.png",
-      "url": "vidioplayer.html#spyxfamily-season-2"
+      "url": "spyxfamily-season-2"
     },
     {
       "title": "SpyxFamily",
       "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140960-Kb6R5nYQfjmP.jpg",
-      "url": "vidioplayer.html#spyxfamily"
+      "url": "spyxfamily"
     }
   ]
 }
