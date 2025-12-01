@@ -2,7 +2,6 @@
   "description": "Pengganti Soul Reaper Ichigo Kurosaki menghabiskan hari-harinya melawan Hollow, roh jahat berbahaya yang mengancam Kota Karakura. Ichigo menjalankan misinya dengan sekutu terdekatnya: Orihime Inoue, teman masa kecilnya yang berbakat dalam penyembuhan; Yasutora Sado, teman sekelas SMA-nya yang memiliki kekuatan super; dan Uryuu Ishida, rival Quincy Ichigo.",
   "video": "vidio.html#bleach-sennen-kessen-hen",
   "production": "Studio Pierrot",
-  "release": "11 Oktober 2022",
   "rating": "8.9",
   "episodes": [
     {
@@ -62,17 +61,17 @@
     {
       "title": "BLEACH",
       "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx269-d2GmRkJbMopq.png",
-      "url": "vidioplayer.html#bleach"
+      "url": "bleach"
     },
     {
       "title": "BLEACH: Sennen Kessen-hen - Ketsubetsu-tan",
       "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159322-Sp1GflRhE6Po.jpg",
-      "url": "vidioplayer.html#bleach-sennen-kessen-hen-ketsubetsu-tan"
+      "url": "bleach-sennen-kessen-hen-ketsubetsu-tan"
     },
     {
       "title": "BLEACH: Sennen Kessen-hen - Soukoku-tan",
       "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169755-Rqb7MjnzdTc6.jpg",
-      "url": "vidioplayer.html#bleach-sennen-kessen-hen-soukoku-tan"
+      "url": "bleach-sennen-kessen-hen-soukoku-tan"
     }
   ]
 }
