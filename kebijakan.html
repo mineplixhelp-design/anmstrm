@@ -6,97 +6,73 @@
     <title>Kebijakan Layanan</title>
     <style>
         body {
-            font-family: 'Inter', system-ui, sans-serif;
-            background: #0d0d0d;
-            color: #e0e0e0;
+            font-family: system-ui, sans-serif;
+            background: #121212;
+            color: #fff;
             margin: 0;
-            padding: 24px;
-            line-height: 1.7;
+            padding: 0;
+            height: 100vh;
+            overflow: hidden;
         }
-        .container {
-            max-width: 600px;
-            margin: 0 auto;
-            text-align: left;
-        }
-        h2 {
-            color: #ffffff;
-            font-size: 1.6rem;
-            margin-bottom: 24px;
-            font-weight: 700;
-            text-align: center;
+        .main-content {
+            padding: 0 10px;
+            line-height: 1.6;
+            height: 98%;
+            overflow-y: auto;
+            box-sizing: border-box;
         }
         h3 {
             color: #5b57c8;
-            margin-top: 35px;
-            margin-bottom: 12px;
-            font-size: 1.25rem;
-            padding-bottom: 4px;
-            border-bottom: 1px solid #1a1a1a;
-            font-weight: 600;
+            margin-top: 20px;
+            margin-bottom: 10px;
+            font-size: 1.1rem;
         }
         ul {
-            list-style: none;
-            margin-left: 0;
+            list-style: disc;
+            margin-left: 20px;
             padding: 0;
-        }
-        li {
-            padding: 10px 0;
-            color: #b0b0b0;
-            font-size: 0.95rem;
-            position: relative;
-            padding-left: 25px;
-        }
-        li::before {
-            content: "\2022";
-            color: #5b57c8;
-            font-weight: bold;
-            display: inline-block;
-            width: 1em;
-            margin-left: -1em;
-            position: absolute;
-            left: 0;
+            color: #bbb;
+            font-size: 0.9rem;
         }
         p {
             font-size: 0.9rem;
-            color: #909090;
-            margin-top: 20px;
-        }
-        .footer-note {
-            text-align: center;
-            margin-top: 50px;
-            font-size: 0.8rem;
-            color: #707070;
-            border-top: 1px solid #1a1a1a;
-            padding-top: 15px;
+            color: #999;
         }
     </style>
 </head>
 <body>
 
-    <div class="container">
+    <div class="main-content">
         <h3>Privasi Pengguna</h3>
         <ul>
-            <li>Data pribadi pengguna, seperti nama lengkap atau alamat email, **tidak dikumpulkan secara langsung** oleh aplikasi ini. Kami berkomitmen untuk menjaga anonimitas pengguna.</li>
-            <li>Aktivitas menonton dan preferensi konten Anda **tidak dibagikan ke pihak ketiga** untuk tujuan pemasaran atau komersial. Data digunakan hanya untuk meningkatkan pengalaman Anda dalam aplikasi.</li>
-            <li>Pengguna **bertanggung jawab penuh atas penggunaan akun bersama** orang lain. Jaga kerahasiaan kredensial login Anda untuk mencegah akses tidak sah.</li>
+            <li>Data pribadi pengguna tidak dikumpulkan secara langsung.</li>
+            <li>Aktivitas menonton tidak dibagikan ke pihak ketiga.</li>
+            <li>Pengguna bertanggung jawab atas penggunaan akun bersama orang lain.</li>
+            <li>Untuk menjaga privasi, kami tidak menyimpan informasi lokasi pengguna secara spesifik.</li>
+            <li>Semua data anonim yang dikumpulkan hanya digunakan untuk analisis internal guna perbaikan layanan.</li>
+            <li>Kami tidak menggunakan cookie pelacakan yang invasif.</li>
         </ul>
 
         <h3>Ketentuan Layanan</h3>
         <ul>
-            <li>Konten yang tersedia disediakan **semata-mata untuk tujuan hiburan dan pembelajaran bahasa Jepang**. Penggunaan untuk tujuan komersial atau ilegal sangat dilarang.</li>
-            <li>Pelanggaran hak cipta atau **distribusi konten ilegal** di luar platform ini adalah tanggung jawab pengguna. Kami tidak mendukung aktivitas yang melanggar kekayaan intelektual.</li>
-            <li>Aplikasi **tidak bertanggung jawab atas kerusakan perangkat atau kehilangan data** yang mungkin timbul dari penggunaan aplikasi. Pengguna disarankan untuk mengambil langkah pencegahan keamanan standar.</li>
+            <li>Konten tersedia untuk hiburan dan pembelajaran bahasa Jepang.</li>
+            <li>Pelanggaran hak cipta atau distribusi konten ilegal adalah tanggung jawab pengguna.</li>
+            <li>Aplikasi tidak bertanggung jawab atas kerusakan perangkat atau data pengguna.</li>
+            <li>Pengguna harus berusia minimal 13 tahun, atau memiliki izin dari orang tua/wali, untuk menggunakan layanan ini.</li>
+            <li>Kami berhak menangguhkan atau menghentikan akun yang melanggar ketentuan layanan tanpa pemberitahuan.</li>
         </ul>
         
         <h3>Keamanan & Pembaruan</h3>
         <ul>
-            <li>Kami **menjaga keamanan data pengguna** dan integritas sistem dengan menerapkan upaya terbaik dan teknologi enkripsi standar industri yang tersedia saat ini.</li>
-            <li>**Pembaruan aplikasi dapat sewaktu-waktu mengubah ketentuan layanan** dan kebijakan privasi yang berlaku. Perubahan ini akan diinformasikan melalui notifikasi dalam aplikasi.</li>
-            <li>**Pengguna disarankan membaca versi terbaru kebijakan** sebelum melanjutkan penggunaan aplikasi setelah adanya pembaruan. Penggunaan yang berkelanjutan dianggap sebagai persetujuan.</li>
+            <li>Kami menjaga keamanan data pengguna dengan upaya terbaik melalui protokol enkripsi standar.</li>
+            <li>Pembaruan aplikasi dapat mengubah ketentuan layanan dan kebijakan privasi.</li>
+            <li>Pengguna disarankan membaca versi terbaru kebijakan sebelum menggunakan aplikasi.</li>
+            <li>Notifikasi pembaruan kebijakan akan diberikan setidaknya 30 hari sebelum perubahan efektif.</li>
+            <li>Kami secara rutin melakukan audit keamanan internal untuk mengidentifikasi dan memperbaiki potensi kerentanan.</li>
         </ul>
         
-        <p class="footer-note">
-            Dengan menggunakan aplikasi ini, Anda secara tegas menyetujui ketentuan layanan dan kebijakan privasi yang telah ditetapkan di atas.
+        <p style="text-align:center; margin-top: 30px; font-size: 0.75rem; color: #777;">
+            Dengan menggunakan aplikasi ini, Anda menyetujui ketentuan layanan dan kebijakan privasi di atas.
         </p>
     </div>
 
