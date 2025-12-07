@@ -3,67 +3,166 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Event dan Games</title>
+    <title>Event & Games | Mineplix</title>
     <style>
+        @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;800&display=swap');
+
+        :root {
+            --color-primary: #5B57C8;
+            --color-secondary: #00FFC0;
+            --color-dark: #121212;
+            --color-card-bg: #1A1A1A;
+            --color-text: #F0F0F0;
+            --color-detail: #A0A0A0;
+        }
+
         body {
-            font-family: system-ui, sans-serif;
-            background: #121212;
-            color: #fff;
+            font-family: 'Montserrat', sans-serif;
+            background: var(--color-dark);
+            color: var(--color-text);
             margin: 0;
-            padding: 20px;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
             text-align: center;
+            background-image: radial-gradient(circle at center, rgba(35, 35, 35, 0.5) 0%, transparent 80%);
+            background-repeat: no-repeat;
+            background-attachment: fixed;
         }
-        h3 {
-            color: #5b57c8;
-            margin-top: 20px;
-            font-size: 1.2rem;
-        }
-        p {
-            font-size: 1rem;
-            color: #bbb;
-            margin-bottom: 30px;
-        }
-        .card {
-            background: #181818;
+
+        .container {
+            width: 100%;
+            max-width: 900px;
             padding: 20px;
-            border-radius: 15px;
-            margin-bottom: 15px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+
+        .card-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 20px;
+        }
+
+        .card {
+            background: var(--color-card-bg);
+            border: 1px solid rgba(91, 87, 200, 0.3);
+            padding: 25px;
+            border-radius: 8px;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.6);
             text-align: left;
+            transition: transform 0.3s, box-shadow 0.3s;
+            position: relative;
+            overflow: hidden;
+            animation: fadeInUp 0.8s ease-out;
         }
+
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.8);
+            border-color: var(--color-primary);
+        }
+        
+        .card.featured:before {
+            content: "AKTIF";
+            position: absolute;
+            top: 15px;
+            right: -25px;
+            background: var(--color-primary);
+            color: var(--color-text);
+            padding: 3px 25px;
+            font-size: 0.75rem;
+            font-weight: 800;
+            transform: rotate(45deg);
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+        }
+
         .card h4 {
-            color: #fff;
+            color: var(--color-text);
             margin-top: 0;
-            margin-bottom: 5px;
+            margin-bottom: 8px;
+            font-size: 1.15rem;
+            font-weight: 600;
+            border-bottom: 1px dashed var(--color-detail);
+            padding-bottom: 5px;
         }
+
         .card p {
-            font-size: 0.85rem;
-            color: #999;
+            font-size: 0.9rem;
+            color: var(--color-detail);
             margin: 0;
+            line-height: 1.4;
         }
+
         .card a {
             display: inline-block;
-            margin-top: 10px;
-            color: #5b57c8;
+            margin-top: 15px;
+            background: var(--color-primary);
+            color: var(--color-text);
+            padding: 8px 15px;
+            border-radius: 3px;
             text-decoration: none;
             font-weight: 600;
+            font-size: 0.9rem;
+            transition: background 0.3s, transform 0.1s;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.4);
+            border: 1px solid transparent;
+        }
+
+        .card a:hover {
+            background: #6B67D8;
+            transform: scale(1.02);
+            border: 1px solid var(--color-secondary);
+        }
+
+        .card.disabled a {
+            background: #333;
+            pointer-events: none;
+            cursor: default;
+            color: #777;
+            border: 1px solid #333;
+        }
+
+        @keyframes fadeInUp {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
         }
     </style>
 </head>
 <body>
 
-    <h3>🎉 Event & Mini Games</h3>
-    <p>Bergabunglah dengan event komunitas kami dan mainkan games seru!</p>
+    <div class="container">
 
-    <div class="card">
-        <h4>🎁 Event Komunitas Discord</h4>
-        <p>Ikuti kuis dan giveaway mingguan di server Discord resmi Mineplix.</p>
-        <a href="https://discord.gg/SUqrcFYyYE" target="_blank">Gabung Discord</a>
-    </div>
+        <div class="card-grid">
 
-    <div class="card">
-        <h4>🕹️ Game Sederhana (Soon)</h4>
-        <p>Tunggu pembaruan berikutnya untuk fitur mini-game berhadiah poin!</p>
+            <div class="card featured">
+                <h4>Misi Login Harian</h4>
+                <p>Kumpulkan poin dan hadiah eksklusif hanya dengan login setiap hari. Jangan sampai terlewat!</p>
+                <a href="#login-mission">Lihat Hadiah</a>
+            </div>
+
+            <div class="card">
+                <h4>Game Tebak Hiragana</h4>
+                <p>Uji kemampuan Jepang-mu! Tebak karakter Hiragana yang muncul dan raih skor tertinggi.</p>
+                <a href="#hiragana-game">Main Sekarang</a>
+            </div>
+            
+            <div class="card">
+                <h4>Event Komunitas Discord</h4>
+                <p>Ikuti kuis seru, diskusi, dan giveaway mingguan di server Discord resmi Mineplix.</p>
+                <a href="https://discord.gg/SUqrcFYyYE" target="_blank">Gabung Discord</a>
+            </div>
+            
+            <div class="card disabled">
+                <h4>Game Sederhana Lain (Segera)</h4>
+                <p>Nantikan mini-game lainnya seperti tebak gambar atau puzzle berhadiah poin spesial.</p>
+                <a href="#">Coming Soon</a>
+            </div>
+
+        </div>
+    
     </div>
     
 </body>
