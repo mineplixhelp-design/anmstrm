@@ -1,169 +1,450 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="id">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Event & Games | Mineplix</title>
-    <style>
-        @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;800&display=swap');
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Mineplix - Misi & Games</title>
+<style>
+:root {
+    --bg-primary: #0c0c0c;
+    --bg-secondary: #121212;
+    --bg-card: #1a1a1a;
+    --bg-darker: #222;
+    --color-accent: #6c63ff;
+    --color-accent-dark: #7b74ff;
+    --color-text: #fff;
+    --color-text-light: #e7e7e7;
+    --color-text-muted: #bcbcbc;
+    --color-border: rgba(255, 255, 255, .2);
+    --color-success: #5cb85c;
+    --color-error: #d9534f;
+}
+*{margin:0;padding:0;box-sizing:border-box;font-family:"Poppins",sans-serif;outline:none!important}
+body{background:var(--bg-primary);color:var(--color-text-light);user-select:none;padding:20px 0 20px;}
+button,input,textarea,div{outline:none!important;border:none}
 
-        :root {
-            --color-primary: #5B57C8;
-            --color-secondary: #00FFC0;
-            --color-dark: #121212;
-            --color-card-bg: #1A1A1A;
-            --color-text: #F0F0F0;
-            --color-detail: #A0A0A0;
-        }
+.container{padding:0 15px}
+.section-title{font-size:20px;font-weight:700;color:var(--color-text);margin-top:20px;margin-bottom:15px;}
 
-        body {
-            font-family: 'Montserrat', sans-serif;
-            background: var(--color-dark);
-            color: var(--color-text);
-            margin: 0;
-            padding: 0;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            min-height: 100vh;
-            text-align: center;
-            background-image: radial-gradient(circle at center, rgba(35, 35, 35, 0.5) 0%, transparent 80%);
-            background-repeat: no-repeat;
-            background-attachment: fixed;
-        }
+.card{background:var(--bg-card);padding:15px;border-radius:16px;margin-bottom:15px;border:1px solid var(--bg-darker)}
 
-        .container {
-            width: 100%;
-            max-width: 900px;
-            padding: 20px;
-        }
+.daily-login-content{display:flex;align-items:center;justify-content:space-between;gap:10px}
+.daily-login-info h3{font-size:16px;margin-bottom:5px;color:var(--color-text)}
+.daily-login-info p{font-size:12px;color:var(--color-text-muted)}
+.daily-login-btn{padding:10px 15px;border-radius:12px;font-size:14px;font-weight:600;transition:.15s;color:var(--color-text);width:100px;text-align:center;}
+.daily-login-btn.claimed{background:var(--color-success);pointer-events:none}
+.daily-login-btn.claim-ready{background:var(--color-accent);}
+.daily-login-btn.claim-ready:active{background:var(--color-accent-dark)}
+.daily-login-btn.not-logged{background:var(--bg-darker);pointer-events:none;color:var(--color-text-muted)}
 
-        .card-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-            gap: 20px;
-        }
+.game-item{display:flex;align-items:center;justify-content:space-between;gap:10px;padding:12px 0;border-bottom:1px solid rgba(255,255,255,.08)}
+.game-item:last-child{border-bottom:none}
+.game-info h3{font-size:16px;margin-bottom:3px;color:var(--color-text)}
+.game-info p{font-size:12px;color:var(--color-text-muted)}
+.game-item-btn{padding:8px 15px;border-radius:10px;font-size:13px;font-weight:600;background:var(--color-accent);color:var(--color-text);transition:.15s}
+.game-item-btn:active{background:var(--color-accent-dark)}
 
-        .card {
-            background: var(--color-card-bg);
-            border: 1px solid rgba(91, 87, 200, 0.3);
-            padding: 25px;
-            border-radius: 8px;
-            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.6);
-            text-align: left;
-            transition: transform 0.3s, box-shadow 0.3s;
-            position: relative;
-            overflow: hidden;
-            animation: fadeInUp 0.8s ease-out;
-        }
+.game-quiz-card{padding:20px;text-align:center}
+#quiz-char{font-family: 'Arial', sans-serif; font-size: 80px; font-weight: 700; color: var(--color-accent); margin-bottom: 20px;}
+#quiz-char-type{font-size: 14px; color: var(--color-text-muted); margin-bottom: 15px;}
+.quiz-options{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.quiz-option-btn{padding:15px 10px;background:var(--bg-darker);border-radius:12px;font-size:14px;color:var(--color-text);font-weight:600;transition:.1s}
+.quiz-option-btn:active{background:rgba(255,255,255,.12)}
+.quiz-result{margin-top:15px;font-size:14px;font-weight:600;min-height:20px;color:transparent;}
+.quiz-result.correct{color:var(--color-success)}
+.quiz-result.wrong{color:var(--color-error)}
+.quiz-footer{display:flex;justify-content:space-between;align-items:center;margin-top:10px;font-size:12px;color:var(--color-text-muted)}
 
-        .card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.8);
-            border-color: var(--color-primary);
-        }
-        
-        .card.featured:before {
-            content: "AKTIF";
-            position: absolute;
-            top: 15px;
-            right: -25px;
-            background: var(--color-primary);
-            color: var(--color-text);
-            padding: 3px 25px;
-            font-size: 0.75rem;
-            font-weight: 800;
-            transform: rotate(45deg);
-            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
-        }
+.modal-backdrop{position:fixed;inset:0;background:rgba(0,0,0,.6);display:flex;align-items:center;justify-content:center;z-index:1000;opacity:0;pointer-events:none;transition: opacity .2s ease-out;}
+.modal-backdrop.active{opacity:1;pointer-events:auto}
+.modal{width:90%;max-width:340px;background:var(--bg-secondary);border-radius:20px;padding:20px;color:#f0f0f0;transform:translateY(10px) scale(0.98);transition: transform .2s ease-out;}
+.modal-backdrop.active .modal {transform: translateY(0) scale(1);}
+.modal-header{font-weight:700;font-size:16px;margin-bottom:10px;color: var(--color-text);}
+.modal-body{font-size:14px;color:var(--color-text-light);line-height: 1.5;margin-bottom:18px;}
+.modal-actions{display:flex;gap:10px;justify-content:flex-end}
+.btn{padding:10px 16px;border-radius:12px;font-size:14px;text-align:center;border:none;transition: .15s}
+.btn.ghost{background:rgba(255,255,255,.05);color:var(--color-text-light)}
+.btn.ghost:active{background:rgba(255,255,255,.12)}
+.btn.primary{background:var(--color-accent);color:var(--color-text)}
+.btn.primary:active{background:var(--color-accent-dark)}
 
-        .card h4 {
-            color: var(--color-text);
-            margin-top: 0;
-            margin-bottom: 8px;
-            font-size: 1.15rem;
-            font-weight: 600;
-            border-bottom: 1px dashed var(--color-detail);
-            padding-bottom: 5px;
-        }
-
-        .card p {
-            font-size: 0.9rem;
-            color: var(--color-detail);
-            margin: 0;
-            line-height: 1.4;
-        }
-
-        .card a {
-            display: inline-block;
-            margin-top: 15px;
-            background: var(--color-primary);
-            color: var(--color-text);
-            padding: 8px 15px;
-            border-radius: 3px;
-            text-decoration: none;
-            font-weight: 600;
-            font-size: 0.9rem;
-            transition: background 0.3s, transform 0.1s;
-            text-transform: uppercase;
-            letter-spacing: 1px;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.4);
-            border: 1px solid transparent;
-        }
-
-        .card a:hover {
-            background: #6B67D8;
-            transform: scale(1.02);
-            border: 1px solid var(--color-secondary);
-        }
-
-        .card.disabled a {
-            background: #333;
-            pointer-events: none;
-            cursor: default;
-            color: #777;
-            border: 1px solid #333;
-        }
-
-        @keyframes fadeInUp {
-            from { opacity: 0; transform: translateY(20px); }
-            to { opacity: 1; transform: translateY(0); }
-        }
-    </style>
+.toast {
+  position: fixed;
+  left: 50%;
+  transform: translateX(-50%) translateY(8px);
+  bottom: 80px; 
+  background: var(--color-text);
+  padding: 10px 15px;
+  font-size:12px;
+  border-radius: 20px;
+  color: var(--bg-darker);
+  z-index: 1200;
+  opacity: 0;
+  transition: .18s;
+  white-space: nowrap;
+}
+.toast.show {
+  opacity: 0.8;
+  transform: translateX(-50%) translateY(0);
+}
+</style>
 </head>
 <body>
 
-    <div class="container">
-
-        <div class="card-grid">
-
-            <div class="card featured">
-                <h4>Misi Login Harian</h4>
-                <p>Kumpulkan poin dan hadiah eksklusif hanya dengan login setiap hari. Jangan sampai terlewat!</p>
-                <a href="#login-mission">Lihat Hadiah</a>
-            </div>
-
-            <div class="card">
-                <h4>Game Tebak Hiragana</h4>
-                <p>Uji kemampuan Jepang-mu! Tebak karakter Hiragana yang muncul dan raih skor tertinggi.</p>
-                <a href="#hiragana-game">Main Sekarang</a>
-            </div>
-            
-            <div class="card">
-                <h4>Event Komunitas Discord</h4>
-                <p>Ikuti kuis seru, diskusi, dan giveaway mingguan di server Discord resmi Mineplix.</p>
-                <a href="https://discord.gg/SUqrcFYyYE" target="_blank">Gabung Discord</a>
-            </div>
-            
-            <div class="card disabled">
-                <h4>Game Sederhana Lain (Segera)</h4>
-                <p>Nantikan mini-game lainnya seperti tebak gambar atau puzzle berhadiah poin spesial.</p>
-                <a href="#">Coming Soon</a>
-            </div>
-
-        </div>
-    
+<div class="container">
+  
+<div class="section-title">Misi Harian</div>
+  <div class="card">
+    <div class="daily-login-content">
+      <div class="daily-login-info">
+        <h3 id="daily-title">Login Harian (Daily Check-in) 🗝️</h3>
+        <p id="daily-desc">Klaim bonus harian Anda! Dapatkan **2 Keys** untuk membuka peti dan **+5 EXP** untuk meningkatkan level akun Anda. Reset setiap 24 jam.</p>
+      </div>
+      <button class="daily-login-btn not-logged" id="dailyLoginBtn">Login</button>
     </div>
+  </div>
+
+  <div class="section-title">Games</div>
+  <div class="card">
+    <div class="game-item">
+      <div class="game-info">
+        <h3>Tebak Aksara Jepang (Hiragana & Katakana) 🎌</h3>
+        <p>Uji pengetahuan Aksara Jepang Anda! Dapatkan **+1 Key** setiap berhasil mencapai **10 jawaban benar beruntun (Streak)**. Jawaban Benar: **+10 EXP**. Jawaban Salah: **-15 EXP**.</p>
+      </div>
+      <button class="game-item-btn" onclick="openGameModal('quiz')">Main</button>
+    </div>
+    <div class="game-item">
+      <div class="game-info">
+        <h3>Coming Soon: Game Misteri Lainnya 🎮</h3>
+        <p>Nantikan game seru baru yang akan segera hadir! Bersiaplah untuk tantangan yang berbeda dan hadiah menarik lainnya.</p>
+      </div>
+      <button class="game-item-btn" style="background:#333; pointer-events:none;">Tunggu</button>
+    </div>
+  </div>
+
+
+</div>
+
+<div class="modal-backdrop" id="gameModalBackdrop">
+  <div class="modal" id="gameModal">
+    <div class="modal-body" id="modalBodyQuiz">
+      <div class="game-quiz-card">
+        <div id="quiz-char-type"></div>
+        <div id="quiz-char"></div>
+        <div class="quiz-options" id="quizOptions"></div>
+        <div id="quizResult" class="quiz-result"></div>
+        <div class="quiz-footer">
+            <span id="quizScore">Streak: 0</span>
+            <span id="quizTotal">Total Keys Earned: 0</span>
+        </div>
+      </div>
+    </div>
+    <div class="modal-actions">
+        <div class="btn ghost" onclick="hideGameModal()">Tutup</div>
+    </div>
+  </div>
+</div>
+
+<div class="toast" id="toast"></div>
+
+<script type="module">
+  import { initializeApp } from "https://www.gstatic.com/firebasejs/12.6.0/firebase-app.js";
+  import { getDatabase, ref, set, get } from "https://www.gstatic.com/firebasejs/12.6.0/firebase-database.js";
+
+  const firebaseConfig = {
+    apiKey: "AIzaSyCfCDgff5nwMYCx1EBDJEoJ8gzxKQ9Y__U",
+    authDomain: "my-mineplix.firebaseapp.com",
+    databaseURL: "https://my-mineplix-default-rtdb.asia-southeast1.firebasedatabase.app",
+    projectId: "my-mineplix",
+    storageBucket: "my-mineplix-f584e.appspot.com",
+    messagingSenderId: "141905130988",
+    appId: "1:141905130988:web:89e524e1dc5777642e8bcc9",
+    measurementId: "G-B92GJ77NPF"
+  };
+
+  const app = initializeApp(firebaseConfig);
+  const db = getDatabase(app);
+
+  const EXP_DAILY_LOGIN = 5;
+  const KEY_DAILY_LOGIN = 2;
+  const EXP_QUIZ_CORRECT = 10;
+  const EXP_QUIZ_WRONG = -15;
+  const KEY_QUIZ_REWARD = 1;
+  const QUIZ_CORRECT_THRESHOLD = 10;
+
+  let audioContext;
+  let isSoundInitialized = false;
+
+  function initializeSound() {
+    if (isSoundInitialized) return;
+    try {
+      audioContext = new (window.AudioContext || window.webkitAudioContext)();
+      
+      if (audioContext.state === 'suspended') {
+        const resume = () => {
+          audioContext.resume().then(() => {
+            isSoundInitialized = true;
+            window.removeEventListener('click', resume);
+            window.removeEventListener('touchend', resume);
+          });
+        };
+        window.addEventListener('click', resume);
+        window.addEventListener('touchend', resume);
+      } else {
+        isSoundInitialized = true;
+      }
+
+    } catch (e) {
+      console.error('Web Audio API not supported', e);
+    }
+  }
+
+  function playSound(type) {
+    if (!isSoundInitialized || !audioContext) return;
+
+    const oscillator = audioContext.createOscillator();
+    const gainNode = audioContext.createGain();
     
+    oscillator.connect(gainNode);
+    gainNode.connect(audioContext.destination);
+
+    gainNode.gain.setValueAtTime(0.3, audioContext.currentTime);
+
+    if (type === 'correct') {
+      oscillator.frequency.setValueAtTime(600, audioContext.currentTime); 
+      oscillator.frequency.exponentialRampToValueAtTime(800, audioContext.currentTime + 0.1); 
+      gainNode.gain.exponentialRampToValueAtTime(0.001, audioContext.currentTime + 0.2);
+      oscillator.type = 'sine';
+    } else if (type === 'wrong') {
+      oscillator.frequency.setValueAtTime(150, audioContext.currentTime);
+      oscillator.frequency.exponentialRampToValueAtTime(100, audioContext.currentTime + 0.1); 
+      gainNode.gain.exponentialRampToValueAtTime(0.001, audioContext.currentTime + 0.4);
+      oscillator.type = 'sawtooth';
+    } else if (type === 'reward') {
+      oscillator.frequency.setValueAtTime(1000, audioContext.currentTime);
+      oscillator.frequency.exponentialRampToValueAtTime(1500, audioContext.currentTime + 0.05); 
+      oscillator.frequency.exponentialRampToValueAtTime(1000, audioContext.currentTime + 0.1); 
+      gainNode.gain.exponentialRampToValueAtTime(0.001, audioContext.currentTime + 0.3);
+      oscillator.type = 'triangle';
+    } else {
+      return;
+    }
+
+    oscillator.start();
+    oscillator.stop(audioContext.currentTime + 0.4);
+  }
+
+  function getLoggedInUsername() {
+    return localStorage.getItem("user_nama") || "UserAnon";
+  }
+
+  function getKeys(){
+    return parseInt(localStorage.getItem("mineplixlay-key")||"0");
+  }
+  function setKeys(v){
+    localStorage.setItem("mineplixlay-key",v);
+  }
+
+  const toastEl = document.getElementById("toast");
+  function showToast(text,timeout=2200){
+    toastEl.textContent=text;
+    toastEl.classList.add("show");
+    setTimeout(()=>toastEl.classList.remove("show"),timeout)
+  }
+
+  async function addExp(amount) {
+    const username = getLoggedInUsername();
+    if (username === "UserAnon") return;
+    const expCountRef = ref(db, `/exp_count/${username}`);
+    const snap = await get(expCountRef);
+    let currentTotalExp = snap.val() || 0;
+    const EXP_PER_LEVEL = 100;
+    const oldLevel = Math.floor(currentTotalExp / EXP_PER_LEVEL);
+    currentTotalExp += amount;
+    if(currentTotalExp < 0) currentTotalExp = 0;
+    const newLevel = Math.floor(currentTotalExp / EXP_PER_LEVEL);
+    await set(expCountRef, currentTotalExp);
+    if (newLevel > oldLevel) {
+      showToast(`Level Up! Level ${newLevel}`);
+    }
+  }
+
+  function addKey(amount) {
+    const currentKeys = getKeys();
+    setKeys(currentKeys + amount);
+  }
+
+  const dailyLoginBtn = document.getElementById("dailyLoginBtn");
+  const dailyTitle = document.getElementById("daily-title");
+  
+  function checkDailyLogin() {
+    const username = getLoggedInUsername();
+    const lastClaimDate = localStorage.getItem(`daily_claim_${username}`);
+    const today = new Date().toDateString();
+    
+    if (username === "UserAnon") {
+      dailyLoginBtn.textContent = "Login";
+      dailyLoginBtn.classList.add("not-logged");
+      dailyTitle.textContent = "Login untuk klaim harian!";
+      dailyLoginBtn.onclick = () => showToast("Silakan login terlebih dahulu.");
+      return;
+    }
+
+    dailyTitle.textContent = "Login Harian";
+
+    if (lastClaimDate === today) {
+      dailyLoginBtn.textContent = "Sudah Klaim";
+      dailyLoginBtn.classList.remove("claim-ready");
+      dailyLoginBtn.classList.add("claimed");
+      dailyLoginBtn.onclick = null;
+    } else {
+      dailyLoginBtn.textContent = "Klaim";
+      dailyLoginBtn.classList.remove("not-logged", "claimed");
+      dailyLoginBtn.classList.add("claim-ready");
+      dailyLoginBtn.onclick = claimDailyReward;
+    }
+  }
+
+  async function claimDailyReward() {
+    const username = getLoggedInUsername();
+    localStorage.setItem(`daily_claim_${username}`, new Date().toDateString());
+    addKey(KEY_DAILY_LOGIN);
+    await addExp(EXP_DAILY_LOGIN);
+    showToast(`Mendapat ${KEY_DAILY_LOGIN} Keys +${EXP_DAILY_LOGIN} EXP`);
+    checkDailyLogin();
+  }
+  
+  const modalBackdrop = document.getElementById("gameModalBackdrop");
+  const quizCharEl = document.getElementById("quiz-char");
+  const quizCharTypeEl = document.getElementById("quiz-char-type");
+  const quizOptionsEl = document.getElementById("quizOptions");
+  const quizResultEl = document.getElementById("quizResult");
+  const quizScoreEl = document.getElementById("quizScore");
+  const quizTotalEl = document.getElementById("quizTotal");
+  
+  let currentQuiz = {};
+  let correctAnswersStreak = 0;
+  let totalKeysEarned = 0;
+  let quizInProgress = false;
+
+  const HIRA = { 'a': 'あ', 'i': 'い', 'u': 'う', 'e': 'え', 'o': 'お', 'ka': 'か', 'ki': 'き', 'ku': 'く', 'ke': 'け', 'ko': 'こ', 'sa': 'さ', 'shi': 'し', 'su': 'す', 'se': 'せ', 'so': 'そ' };
+  const KATA = { 'a': 'ア', 'i': 'イ', 'u': 'ウ', 'e': 'エ', 'o': 'オ', 'ka': 'カ', 'ki': 'キ', 'ku': 'ク', 'ke': 'ケ', 'ko': 'コ', 'sa': 'サ', 'shi': 'シ', 'su': 'ス', 'se': 'セ', 'so': 'ソ' };
+
+  function getRandomElement(obj) {
+    const keys = Object.keys(obj);
+    const romaji = keys[Math.floor(Math.random() * keys.length)];
+    return { romaji, kana: obj[romaji] };
+  }
+
+  function generateQuiz() {
+    const types = ['Hiragana', 'Katakana'];
+    const quizType = types[Math.floor(Math.random() * types.length)];
+    const kanaMap = quizType === 'Hiragana' ? HIRA : KATA;
+    
+    const correct = getRandomElement(kanaMap);
+    
+    let options = [correct.romaji];
+    while (options.length < 4) {
+      const wrong = getRandomElement(kanaMap).romaji;
+      if (!options.includes(wrong)) {
+        options.push(wrong);
+      }
+    }
+    
+    options.sort(() => Math.random() - 0.5);
+    
+    currentQuiz = {
+      type: quizType,
+      kana: correct.kana,
+      correctRomaji: correct.romaji,
+      options: options
+    };
+  }
+
+  function renderQuiz() {
+    generateQuiz();
+    quizCharEl.textContent = currentQuiz.kana;
+    quizCharTypeEl.textContent = currentQuiz.type;
+    quizResultEl.className = 'quiz-result';
+    quizResultEl.textContent = '';
+    quizInProgress = true;
+
+    quizOptionsEl.innerHTML = '';
+    currentQuiz.options.forEach(option => {
+      const button = document.createElement('button');
+      button.className = 'quiz-option-btn';
+      button.textContent = option.toUpperCase();
+      button.onclick = () => checkAnswer(option);
+      quizOptionsEl.appendChild(button);
+    });
+
+    updateQuizStats();
+  }
+
+  async function checkAnswer(selectedRomaji) {
+    if (!quizInProgress) return;
+    quizInProgress = false;
+
+    const isCorrect = selectedRomaji === currentQuiz.correctRomaji;
+    
+    document.querySelectorAll('.quiz-option-btn').forEach(btn => btn.onclick = null);
+
+    if (isCorrect) {
+      playSound('correct');
+      quizResultEl.classList.add('correct');
+      quizResultEl.textContent = `BENAR! +${EXP_QUIZ_CORRECT} EXP`;
+      correctAnswersStreak++;
+      await addExp(EXP_QUIZ_CORRECT);
+      
+      if (correctAnswersStreak % QUIZ_CORRECT_THRESHOLD === 0) {
+        playSound('reward');
+        addKey(KEY_QUIZ_REWARD);
+        totalKeysEarned += KEY_QUIZ_REWARD;
+        showToast(`KEY REWARD! Mendapat ${KEY_QUIZ_REWARD} Key dari streak!`);
+      }
+      
+    } else {
+      playSound('wrong');
+      quizResultEl.classList.add('wrong');
+      quizResultEl.textContent = `SALAH! Jawaban: ${currentQuiz.correctRomaji.toUpperCase()}. ${EXP_QUIZ_WRONG} EXP`;
+      correctAnswersStreak = 0;
+      await addExp(EXP_QUIZ_WRONG);
+    }
+    
+    updateQuizStats();
+    setTimeout(renderQuiz, 1000);
+  }
+
+  function updateQuizStats() {
+    quizScoreEl.textContent = `Streak: ${correctAnswersStreak}`;
+    quizTotalEl.textContent = `Total Keys Earned: ${totalKeysEarned}`;
+  }
+
+  function openGameModal(gameType) {
+    const username = getLoggedInUsername();
+    if (username === "UserAnon") {
+      showToast("Silakan login untuk bermain games.");
+      return;
+    }
+    
+    if (gameType === 'quiz') {
+      correctAnswersStreak = 0;
+      totalKeysEarned = 0;
+      renderQuiz();
+      modalBackdrop.classList.add('active');
+    }
+  }
+
+  function hideGameModal() {
+    modalBackdrop.classList.remove('active');
+  }
+
+  window.addEventListener('load', checkDailyLogin);
+  initializeSound();
+  
+  window.openGameModal = openGameModal;
+  window.hideGameModal = hideGameModal;
+</script>
+
 </body>
 </html>
