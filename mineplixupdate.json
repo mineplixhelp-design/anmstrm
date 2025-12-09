@@ -1,6 +1,12 @@
 {
   "updates": [
     {
+      "notificationId": "4",
+      "title": "Pembaruan snignifikasi perbaikan model deisgn ui pembaruan fitur dan pengotimlan data dan design player dan sever.",
+      "date": "10 Desember 2025",
+      "description": "Pembaruan signifikan ini berfokus pada peningkatan menyeluruh, dimulai dari perbaikan mendalam pada model desain UI untuk meningkatkan estetika dan konsistensi visual di berbagai perangkat, diikuti dengan implementasi dan pembaruan fitur-fitur baru yang memperkaya fungsionalitas dan interaksi pengguna, serta diakhiri dengan pengoptimalan data dan infrastruktur player dan server yang krusial untuk memastikan waktu loading yang lebih cepat, stabilitas server yang lebih kuat, dan performa player yang lebih mulus dan bebas lag."
+    },
+    {
       "notificationId": "3",
       "title": "Pengoptimalan data",
       "date": "30 November 2025",
