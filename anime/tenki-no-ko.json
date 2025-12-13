@@ -1,16 +1,11 @@
 {
-  "title": "Tenki no Ko",
-  "altTitle": "Weathering With You",
-  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx106286-5COcpd0J9VbL.png",
-  "genre": ["Romance", "Fantasy", "Drama"],
   "description": "Hodaka Morishima, seorang remaja yang kabur ke Tokyo, bertemu dengan gadis misterius bernama Hina Amano yang memiliki kemampuan untuk memanggil cuaca cerah di tengah hujan yang tiada henti.",
   "video": "vidio.html#tenki-no-ko",
   "production": "CoMix Wave Films",
-  "release": "Juli 2019",
   "rating": "8.3",
   "episodes": [
     {
-      "number": 1,
+      "number": "Movie",
       "url": "https://nobara.my.id/kdrive/KgxtGDtKdd1/Kuramanime-TKnK_MOV_BD-720p-Aizukara.mp4?lud=1743502876&pid=10650&sid=55012&cce="
     }
   ]
