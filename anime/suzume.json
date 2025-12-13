@@ -1,16 +1,11 @@
 {
-  "title": "Suzume",
-  "altTitle": "Suzume no Tojimari",
-  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142770-dDaDIRnsv5jN.jpg",
-  "genre": ["Adventure", "Supernatural"],
   "description": "Film karya Makoto Shinkai yang mengikuti perjalanan seorang gadis bernama Suzume yang menutup pintu-pintu bencana di seluruh Jepang.",
   "video": "vidio.html#suzume",
   "production": "CoMix Wave Films",
-  "release": "November 2022",
   "rating": "8.4",
   "episodes": [
     {
-      "number": 1,
+      "number": "Movie",
       "url": "https://riselia.my.id/kdrive/1xeR0SJ6QgJ/Kuramanime-SZMTJM_MOV_BD-720p-Yurasu.mp4?lud=1743503292&pid=15304&sid=78808&cce="
     }
   ]
