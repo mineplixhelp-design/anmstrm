@@ -52,6 +52,10 @@
     {
       "number": 12,
       "url": "https://storage-4.anistream.id/xyz/03_episode/A/Another/12.mp4"
+    },
+    {
+      "number": "reze",
+      "url": "https://filedon.4ee42e7b34bf3c2aec4681b9c17de08f.r2.cloudflarestorage.com/users/5/Selesai/Movie/Chainsaw%20Man%20Movie%20Reze/OPLOVERZ%20PLUS%20-%20CSMMTR%20%5Bmp4%20720p%5D.mp4?response-content-disposition=attachment%3B%20filename%3D%22OPLOVERZ%20PLUS%20-%20CSMMTR%20%5Bmp4%20720p%5D.mp4%22&response-cache-control=public%2C%20max-age%3D3600&response-content-type=application%2Foctet-stream&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=41c0d949cad0166116cd6bdbe51a46a4%2F20251213%2FAPAC%2Fs3%2Faws4_request&X-Amz-Date=20251213T062828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Signature=44fcc344bb140ce3be19e7bd7b03b5cd62dc5dd45b5e6f9c5a83317beba09d14"
     }
   ]
 }
