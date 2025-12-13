@@ -1,16 +1,11 @@
 {
-  "title": "Suki demo Kirai na Amanojaku",
-  "altTitle": "My Oni Girl",
-  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx148080-2wVRYUghiaAq.png",
-  "genre": ["Adventure", "Supernatural", "Romance"],
   "description": "Seorang siswa SMA kelas satu bernama Hiiragi Yatsuse yang kesulitan membuat teman, bertemu dengan seorang gadis oni bernama Tsumugi yang datang ke dunia manusia untuk mencari ibunya. Salju pun mulai turun secara misterius… dan petualangan mereka pun dimulai. 1",
   "video": "vidio.html#suki-demo-kirai-na-amanojaku",
   "production": "Studio Colorido / Twin Engine",
-  "release": "24 Mei 2024",
   "rating": "7.0", 
   "episodes": [
     {
-      "number": 1,
+      "number": "Movie",
       "url": "https://tiera.my.id/kdrive/Wy1U0StcXdx/Kuramanime-MYOGRL-720p-NF.mp4?lud=1743504715&pid=23354&sid=122466&cce="
     }
   ]
