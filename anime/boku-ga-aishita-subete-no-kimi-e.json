@@ -1,16 +1,11 @@
 {
-  "title": "Boku ga Aishita Subete no Kimi e",
-  "altTitle": "To All the Boys I Loved Before",
-  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139310-OM1RKpk5YH7g.jpg",
-  "genre": ["Romance", "Sci-Fi"],
   "description": "Cerita tentang perjalanan emosional seorang remaja perempuan yang menghadapi rahasia cinta pertamanya ketika surat cintanya tersebar tanpa sengaja. Kisah ini menyoroti cinta, persahabatan, dan pertumbuhan pribadi.",
   "video": "vidio.html#boku-ga-aishita-subete-no-kimi-e",
   "production": "Studio XYZ",
-  "release": "15 Februari 2025",
   "rating": "8.0",
   "episodes": [
     {
-      "number": 1,
+      "number": "Movie",
       "url": "https://kikoru.my.id/kdrive/yGBX1T7BR06/Kuramanime-BOKUAI_MOV_BD-720p-Yurasu.mp4?lud=1756108326&pid=14036&sid=72435&cce=1"
     }
   ]
