@@ -1,16 +1,11 @@
 {
-  "title": "Koe no Katachi",
-  "altTitle": "A Silent Voice",
-  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20954-sYRfE5jQRtSB.jpg",
-  "genre": ["Drama", "Romance", "Slice of Life"],
   "description": "Shoya Ishida, seorang remaja yang pernah mengintimidasi gadis tunarungu bernama Shoko Nishimiya saat SD, berusaha menebus kesalahannya bertahun-tahun kemudian dengan mencoba memperbaiki hubungan mereka.",
   "video": "vidio.html#koe-no-katachi",
   "production": "Kyoto Animation",
-  "release": "September 2016",
   "rating": "8.9",
   "episodes": [
     {
-      "number": 1,
+      "number": "Movie",
       "url": "https://tiera.my.id/kdrive/htmRmFIi6fe/Kuramanime-KOEKATA_MOV_BD-720p-Moesubs.mp4?lud=1743504375&pid=21103&sid=110355&cce="
     }
   ]
