@@ -51,11 +51,12 @@
   {
     "title": "Ame wo Tsugeru Hyouryuu Danchi",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139643-HzWce7XJ2w6G.jpg",
-    "year": 2022,
+    "year": "2022",
     "genre": [
       "Fantasy",
       "Adventure",
-      "Drama"
+      "Drama",
+      "Slice of Life"
     ],
     "format": "Movie",
     "update": "Movie",
@@ -2200,6 +2201,34 @@
     "added_date": "2025-12-01"
   },
   {
+    "title": "Tensei shitara Slime Datta Ken",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101280-tDxCVJm714nt.jpg",
+    "year": "2018",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "format": "TV",
+    "update": "",
+    "added_date": "2025-12-24"
+  },
+  {
+    "title": "Tensei Shitara Slime Datta Ken 2nd Season",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108511-PufFordLNyIb.jpg",
+    "year": "2021",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "format": "TV",
+    "update": "",
+    "added_date": "2025-12-24"
+  },
+  {
     "title": "Tensei Shitara Slime Datta Ken 3rd Season",
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156822-Jzo2ITWgm4kM.jpg",
     "year": 2024,
@@ -2211,6 +2240,20 @@
     "format": "TV",
     "update": "",
     "added_date": "2025-12-01"
+  },
+  {
+    "title": "Tensei Shitara Slime Datta Ken Tensura Nikki",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116741-MI9aI2ikNyAP.jpg",
+    "year": "2021",
+    "genre": [
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "format": "TV",
+    "update": "",
+    "added_date": "2025-12-24"
   },
   {
     "title": "Tokyo Ghoul",
