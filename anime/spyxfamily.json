@@ -53,12 +53,14 @@
   ],
   "related": [
     {
-      "title": "SpyxFamily Season 3",
-      "url": "spyxfamily-season-3"
+      "title": "SpyxFamily Season 2",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b158927-lfO85WVguYgc.png",
+      "url": "spyxfamily-season-2"
     },
     {
-      "title": "SpyxFamily Season 2",
-      "url": "spyxfamily-season-2"
+      "title": "SpyxFamily Season 3",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177937-Tzgg6rAdhCoH.jpg",
+      "url": "spyxfamily-season-3"
     }
   ]
 }
